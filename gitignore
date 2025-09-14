@@ -1,0 +1,31 @@
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+
+# Notebooks & caches
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Logs
+*.log
+
+# Node (in case of frontend assets)
+node_modules/
+
+# Data & artifacts
+data/
+*.csv
+*.tsv
+*.parquet
+*.zip
+*.bin
+*.pt
+*.model
