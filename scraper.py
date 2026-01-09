@@ -1,6 +1,6 @@
 """
 Canadian Election Simulator - Polling Data Scraper
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [Amin Behbudov]
 
 This module handles scraping polling data from the CBC Poll Tracker website.
 """
