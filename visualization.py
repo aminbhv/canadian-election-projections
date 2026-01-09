@@ -1,6 +1,6 @@
 """
 Canadian Election Simulator - Visualization Module
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [Amin Behbudov]
 
 This module handles data visualization for the election simulator.
 """
@@ -46,7 +46,7 @@ def make_choropleth(polling_data: Dict[str, Dict[str, float]]) -> Figure:
     try:
         # Using open to read the file is necessary in this context.
         # Adding "open" to allowed-io in python_ta config.
-        with open("canada_provinces.geojson") as f:  # noqa: E9998
+        with open("canada_provinces.geojson") as f:  # noqa
             geojson = json.load(f)
         logging.info("Successfully loaded GeoJSON file")
     except (FileNotFoundError, json.JSONDecodeError) as e:
