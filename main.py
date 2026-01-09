@@ -1,6 +1,6 @@
 """
 main.py - Canadian Election Simulator - Main Module
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [Amin Behbudov]
 
 This module serves as the entry point for the Canadian Election Simulator application.
 It orchestrates the loading of data, building of models, and running the simulation dashboard.
