@@ -35,53 +35,6 @@ canadian-federal-election-polling-&-seat-projections/
 ├─ LICENSE
 └─ README.md
 ```
-Your unzipped tree looked like:
-```
-├─ __MACOSX
-│  └─ claude split-22234
-│     ├─ ._2015.csv
-│     ├─ ._2019.csv
-│     ├─ ._2021.csv
-│     ├─ .___pycache__
-│     ├─ ._canada_provinces.geojson
-│     ├─ ._config.py
-│     ├─ ._dashboard.py
-│     ├─ ._data_loader.py
-│     ├─ ._election_model.py
-│     ├─ ._graph.py
-│     ├─ ._main.py
-│     ├─ ._scraper.py
-│     ├─ ._visualization.py
-│     └─ __pycache__
-│        ├─ ._config.cpython-313.pyc
-│        ├─ ._dashboard.cpython-313.pyc
-│        ├─ ._data_loader.cpython-313.pyc
-│        ├─ ._election_model.cpython-313.pyc
-│        ├─ ._graph.cpython-313.pyc
-│        ├─ ._scraper.cpython-313.pyc
-│        └─ ._visualization.cpython-313.pyc
-└─ claude split-22234
-   ├─ 2015.csv
-   ├─ 2019.csv
-   ├─ 2021.csv
-   ├─ __pycache__
-   │  ├─ config.cpython-313.pyc
-   │  ├─ dashboard.cpython-313.pyc
-   │  ├─ data_loader.cpython-313.pyc
-   │  ├─ election_model.cpython-313.pyc
-   │  ├─ graph.cpython-313.pyc
-   │  ├─ scraper.cpython-313.pyc
-   │  └─ visualization.cpython-313.pyc
-   ├─ canada_provinces.geojson
-   ├─ config.py
-   ├─ dashboard.py
-   ├─ data_loader.py
-   ├─ election_model.py
-   ├─ graph.py
-   ├─ main.py
-   ├─ scraper.py
-   └─ visualization.py
-```
 
 ## Requirements
 Listed in `requirements.txt`; core libraries include Selenium, pandas, networkx, plotly, and dash.
