@@ -100,7 +100,7 @@ def create_dashboard(historical_voter_graph):
                 (f"{p}: {100 * probs[p]['majority']:.1f}% majority, {100 * probs[p]['minority']:.1f}% minority, "
                  f"{100 * probs[p]['no_win']:.1f}% no win")
                 for p in probs]
-            summary = html.Ul([html.Li(l) for l in lines])
+            summary = html.Ul([html.Li(line) for line in lines])
             status_message = f"Simulation completed in {end_time - start_time:.2f} seconds."
         else:
             if simulation_results is None:
