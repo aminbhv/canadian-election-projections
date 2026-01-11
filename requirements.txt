@@ -1,61 +1,6 @@
-Dict
-List
-MAJORITY_THRESHOLD
-
-
-class RegionNode
-Optional
-Output
-State
-
-from scraper import scrape_polling_data
-from visualization import make_bar_chart
-Tuple
-import logging
-
-from selenium import webdriver
-from selenium
-Tuple
-import networkx as nx
-from config import SEATS_BY_PROVINCE
-VALID_PARTIES
-
-
-def clean_and_merge
-WebDriverException
-
-logging
-dashboard
-data_loader
-doctest
-    import python_ta
-
-    doctest
-graph
-html
-from dash
-json
-from typing import Dict
-import logging
-import pandas as pd
-import plotly
-make_choropleth
-from graph import make_voter_graph_figure
-from election_model import run_simulation
-
-
-def create_dashboard
-numpy as np
-import networkx as nx
-import plotly
-pandas as pd
-from config import PROVINCE_MAP
-random
-from typing import Any
-scraper
-time
-import dash
-from dash import dcc
-time
-import re
-from typing import Optional
+dash>=2.0
+plotly>=5.0
+pandas>=2.0
+numpy>=1.24
+selenium>=4.0
+networkx>=3.0
