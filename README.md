@@ -34,12 +34,12 @@ git clone https://github.com/aminbhv/canadian-election-projections.git
 cd canadian-election-projections
 
 # 2. Create a virtual environment and install dependencies
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 # 3. Run the dashboard
-python dashboard.py
+python3 dashboard.py
 ```
 
 Then open the URL printed in your terminal (e.g. `http://127.0.0.1:8050/`).
