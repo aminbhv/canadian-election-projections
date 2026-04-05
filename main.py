@@ -1,11 +1,11 @@
 """
-main.py - Canadian Election Simulator - Main Module
-Copyright (c) 2025 [Amin Behbudov]
+Canadian Election Simulator - Entry Point
 
-This module serves as the entry point for the Canadian Election Simulator application.
-It orchestrates the loading of data, building of models, and running the simulation dashboard.
+Copyright (c) 2025 Amin Behbudov
+
+This module is the entry point for the Canadian Election Simulator. It loads
+historical data, builds the voter transition graph, and launches the dashboard.
 """
-
 
 from data_loader import load_historical_data
 from graph import build_historical_voter_graph
@@ -14,31 +14,22 @@ from dashboard import create_dashboard
 
 def initialize_system():
     """
-    Initialize the election simulation system by loading data and building models.
+    Load historical data and build the voter transition graph and Dash app.
 
     Returns:
-        tuple: Contains the voter graph and app instance
+        tuple: (historical_voter_graph, app)
     """
-    # Load historical election data
     votes_2015, votes_2019, votes_2021 = load_historical_data()
-
-    # Build voter transition graph from historical data
     historical_voter_graph = build_historical_voter_graph(votes_2015, votes_2019, votes_2021)
-
-    # Create Dash app
     app = create_dashboard(historical_voter_graph)
-
     return historical_voter_graph, app
 
 
 def main():
-    """
-    Main function to initialize and run the election simulator.
-    """
+    """Initialize and run the election simulator dashboard."""
     print("Initializing Canadian Election Simulator...")
-    historical_voter_graph, app = initialize_system()
-
-    print("Starting simulator dashboard...")
+    _, app = initialize_system()
+    print("Starting dashboard — visit http://127.0.0.1:8050/")
     app.run(debug=True, port=8050, use_reloader=False)
 
 
