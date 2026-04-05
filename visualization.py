@@ -1,7 +1,7 @@
 """
 Canadian Election Simulator - Visualization Module
 
-Copyright (c) 2025 Amin Behbudov, Fares Abdulmajeed Alabdulhadi, Tahmid Wasif Zaman, Dimural Murat.
+Copyright (c) 2025 Amin Behbudov
 
 This module handles data visualization for the election simulator.
 """
