@@ -9,17 +9,40 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-      - run: pip install ruff
-      - run: ruff check .
+          python-version: "3.11"
+
+      - name: Install ruff
+        run: pip install ruff
+
+      - name: Run ruff check
+        run: ruff check .
+
   compile:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - run: python -m compileall .
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install dash plotly pandas networkx numpy
+
+      - name: Check syntax on all Python files
+        run: |
+          python -m py_compile config.py
+          python -m py_compile data_loader.py
+          python -m py_compile election_model.py
+          python -m py_compile graph.py
+          python -m py_compile visualization.py
+          python -m py_compile scraper.py
+          python -m py_compile dashboard.py
+          python -m py_compile main.py
+          echo "All files compiled successfully."
