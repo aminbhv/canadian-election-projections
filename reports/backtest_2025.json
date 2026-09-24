@@ -1,0 +1,281 @@
+{
+  "results": {
+    "forecast/proportional": {
+      "riding_accuracy": 0.8600583090379009,
+      "baseline_accuracy": 0.8309037900874635,
+      "ridings_changed_hands": 58,
+      "changed_hands_called": 26,
+      "brier": 0.19899851766763849,
+      "log_loss": 0.3369354983750142,
+      "point_seats": {
+        "LPC": 191,
+        "CPC": 130,
+        "NDP": 3,
+        "BQ": 18,
+        "GPC": 1,
+        "PPC": 0,
+        "OTH": 0
+      },
+      "mean_seats": {
+        "LPC": 188.8,
+        "CPC": 130.6,
+        "NDP": 4.4,
+        "BQ": 17.7,
+        "GPC": 1.4,
+        "PPC": 0.0,
+        "OTH": 0.1
+      },
+      "actual_seats": {
+        "LPC": 169,
+        "CPC": 144,
+        "NDP": 7,
+        "BQ": 22,
+        "GPC": 1,
+        "PPC": 0,
+        "OTH": 0
+      },
+      "seat_mae": 5.803628571428573,
+      "p_lpc_majority": 0.946,
+      "p_lpc_most_seats": 0.9968,
+      "lpc_actual_percentile": 0.031,
+      "cpc_actual_percentile": 0.9122
+    },
+    "forecast/uniform": {
+      "riding_accuracy": 0.8746355685131195,
+      "baseline_accuracy": 0.8309037900874635,
+      "ridings_changed_hands": 58,
+      "changed_hands_called": 25,
+      "brier": 0.18489692775510205,
+      "log_loss": 0.3036612067465994,
+      "point_seats": {
+        "LPC": 187,
+        "CPC": 123,
+        "NDP": 11,
+        "BQ": 20,
+        "GPC": 2,
+        "PPC": 0,
+        "OTH": 0
+      },
+      "mean_seats": {
+        "LPC": 184.4,
+        "CPC": 128.4,
+        "NDP": 10.3,
+        "BQ": 18.3,
+        "GPC": 1.6,
+        "PPC": 0.0,
+        "OTH": 0.0
+      },
+      "actual_seats": {
+        "LPC": 169,
+        "CPC": 144,
+        "NDP": 7,
+        "BQ": 22,
+        "GPC": 1,
+        "PPC": 0,
+        "OTH": 0
+      },
+      "seat_mae": 5.525285714285717,
+      "p_lpc_majority": 0.8623,
+      "p_lpc_most_seats": 0.9926,
+      "lpc_actual_percentile": 0.0904,
+      "cpc_actual_percentile": 0.9329
+    },
+    "forecast/hybrid": {
+      "riding_accuracy": 0.8658892128279884,
+      "baseline_accuracy": 0.8309037900874635,
+      "ridings_changed_hands": 58,
+      "changed_hands_called": 26,
+      "brier": 0.19037024087463555,
+      "log_loss": 0.31228559215697144,
+      "point_seats": {
+        "LPC": 192,
+        "CPC": 125,
+        "NDP": 5,
+        "BQ": 19,
+        "GPC": 2,
+        "PPC": 0,
+        "OTH": 0
+      },
+      "mean_seats": {
+        "LPC": 187.2,
+        "CPC": 129.6,
+        "NDP": 6.7,
+        "BQ": 18.0,
+        "GPC": 1.4,
+        "PPC": 0.0,
+        "OTH": 0.0
+      },
+      "actual_seats": {
+        "LPC": 169,
+        "CPC": 144,
+        "NDP": 7,
+        "BQ": 22,
+        "GPC": 1,
+        "PPC": 0,
+        "OTH": 0
+      },
+      "seat_mae": 5.328799999999998,
+      "p_lpc_majority": 0.9204,
+      "p_lpc_most_seats": 0.995,
+      "lpc_actual_percentile": 0.0488,
+      "cpc_actual_percentile": 0.92
+    },
+    "oracle/proportional": {
+      "riding_accuracy": 0.8688046647230321,
+      "baseline_accuracy": 0.8309037900874635,
+      "ridings_changed_hands": 58,
+      "changed_hands_called": 28,
+      "brier": 0.1945396270553936,
+      "log_loss": 0.3555952630283375,
+      "point_seats": {
+        "LPC": 190,
+        "CPC": 133,
+        "NDP": 0,
+        "BQ": 20,
+        "GPC": 0,
+        "PPC": 0,
+        "OTH": 0
+      },
+      "mean_seats": {
+        "LPC": 184.3,
+        "CPC": 135.9,
+        "NDP": 0.9,
+        "BQ": 21.0,
+        "GPC": 0.8,
+        "PPC": 0.0,
+        "OTH": 0.1
+      },
+      "actual_seats": {
+        "LPC": 169,
+        "CPC": 144,
+        "NDP": 7,
+        "BQ": 22,
+        "GPC": 1,
+        "PPC": 0,
+        "OTH": 0
+      },
+      "seat_mae": 4.406828571428572,
+      "p_lpc_majority": 0.8832,
+      "p_lpc_most_seats": 0.9869,
+      "lpc_actual_percentile": 0.0721,
+      "cpc_actual_percentile": 0.7886
+    },
+    "oracle/uniform": {
+      "riding_accuracy": 0.8833819241982507,
+      "baseline_accuracy": 0.8309037900874635,
+      "ridings_changed_hands": 58,
+      "changed_hands_called": 28,
+      "brier": 0.169687084606414,
+      "log_loss": 0.2800813442218014,
+      "point_seats": {
+        "LPC": 187,
+        "CPC": 131,
+        "NDP": 4,
+        "BQ": 21,
+        "GPC": 0,
+        "PPC": 0,
+        "OTH": 0
+      },
+      "mean_seats": {
+        "LPC": 179.8,
+        "CPC": 135.2,
+        "NDP": 5.3,
+        "BQ": 21.7,
+        "GPC": 1.0,
+        "PPC": 0.0,
+        "OTH": 0.0
+      },
+      "actual_seats": {
+        "LPC": 169,
+        "CPC": 144,
+        "NDP": 7,
+        "BQ": 22,
+        "GPC": 1,
+        "PPC": 0,
+        "OTH": 0
+      },
+      "seat_mae": 3.0907142857142857,
+      "p_lpc_majority": 0.7571,
+      "p_lpc_most_seats": 0.9674,
+      "lpc_actual_percentile": 0.1748,
+      "cpc_actual_percentile": 0.7872
+    },
+    "oracle/hybrid": {
+      "riding_accuracy": 0.880466472303207,
+      "baseline_accuracy": 0.8309037900874635,
+      "ridings_changed_hands": 58,
+      "changed_hands_called": 29,
+      "brier": 0.17985797609329446,
+      "log_loss": 0.3103975926534934,
+      "point_seats": {
+        "LPC": 188,
+        "CPC": 133,
+        "NDP": 1,
+        "BQ": 21,
+        "GPC": 0,
+        "PPC": 0,
+        "OTH": 0
+      },
+      "mean_seats": {
+        "LPC": 182.6,
+        "CPC": 135.8,
+        "NDP": 2.4,
+        "BQ": 21.4,
+        "GPC": 0.8,
+        "PPC": 0.0,
+        "OTH": 0.0
+      },
+      "actual_seats": {
+        "LPC": 169,
+        "CPC": 144,
+        "NDP": 7,
+        "BQ": 22,
+        "GPC": 1,
+        "PPC": 0,
+        "OTH": 0
+      },
+      "seat_mae": 3.883371428571429,
+      "p_lpc_majority": 0.8352,
+      "p_lpc_most_seats": 0.979,
+      "lpc_actual_percentile": 0.1083,
+      "cpc_actual_percentile": 0.7835
+    }
+  },
+  "sensitivity": [
+    {
+      "noise_factor": 0.5,
+      "brier": 0.2292146392419825,
+      "log_loss": 0.5429960867385432,
+      "p_lpc_majority": 1.0,
+      "lpc_actual_percentile": 0.0
+    },
+    {
+      "noise_factor": 1.0,
+      "brier": 0.19899851766763849,
+      "log_loss": 0.3369354983750142,
+      "p_lpc_majority": 0.946,
+      "lpc_actual_percentile": 0.031
+    },
+    {
+      "noise_factor": 1.5,
+      "brier": 0.18624022443148688,
+      "log_loss": 0.30106046395773467,
+      "p_lpc_majority": 0.811,
+      "lpc_actual_percentile": 0.1459
+    },
+    {
+      "noise_factor": 2.0,
+      "brier": 0.18741850361516033,
+      "log_loss": 0.31166035424579597,
+      "p_lpc_majority": 0.6987,
+      "lpc_actual_percentile": 0.2561
+    },
+    {
+      "noise_factor": 3.0,
+      "brier": 0.21168372495626825,
+      "log_loss": 0.3843056638710037,
+      "p_lpc_majority": 0.527,
+      "lpc_actual_percentile": 0.4341
+    }
+  ]
+}

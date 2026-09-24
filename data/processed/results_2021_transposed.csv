@@ -1,0 +1,2402 @@
+riding_id,riding_name,province,party,votes
+10001,Avalon,NL,LPC,17916
+10001,Avalon,NL,CPC,11636
+10001,Avalon,NL,NDP,5019
+10001,Avalon,NL,BQ,0
+10001,Avalon,NL,GPC,0
+10001,Avalon,NL,PPC,643
+10001,Avalon,NL,OTH,0
+10002,Cape Spear,NL,LPC,19467
+10002,Cape Spear,NL,CPC,7250
+10002,Cape Spear,NL,NDP,8227
+10002,Cape Spear,NL,BQ,0
+10002,Cape Spear,NL,GPC,0
+10002,Cape Spear,NL,PPC,631
+10002,Cape Spear,NL,OTH,0
+10003,Central Newfoundland,NL,LPC,14646
+10003,Central Newfoundland,NL,CPC,14927
+10003,Central Newfoundland,NL,NDP,2261
+10003,Central Newfoundland,NL,BQ,0
+10003,Central Newfoundland,NL,GPC,0
+10003,Central Newfoundland,NL,PPC,0
+10003,Central Newfoundland,NL,OTH,0
+10004,Labrador,NL,LPC,4119
+10004,Labrador,NL,CPC,2930
+10004,Labrador,NL,NDP,2297
+10004,Labrador,NL,BQ,0
+10004,Labrador,NL,GPC,0
+10004,Labrador,NL,PPC,307
+10004,Labrador,NL,OTH,0
+10005,Long Range Mountains,NL,LPC,16178
+10005,Long Range Mountains,NL,CPC,14344
+10005,Long Range Mountains,NL,NDP,4347
+10005,Long Range Mountains,NL,BQ,0
+10005,Long Range Mountains,NL,GPC,0
+10005,Long Range Mountains,NL,PPC,1578
+10005,Long Range Mountains,NL,OTH,0
+10006,St. John's East,NL,LPC,16741
+10006,St. John's East,NL,CPC,6709
+10006,St. John's East,NL,NDP,12920
+10006,St. John's East,NL,BQ,0
+10006,St. John's East,NL,GPC,0
+10006,St. John's East,NL,PPC,718
+10006,St. John's East,NL,OTH,0
+10007,Terra Nova—The Peninsulas,NL,LPC,15173
+10007,Terra Nova—The Peninsulas,NL,CPC,12986
+10007,Terra Nova—The Peninsulas,NL,NDP,2673
+10007,Terra Nova—The Peninsulas,NL,BQ,0
+10007,Terra Nova—The Peninsulas,NL,GPC,0
+10007,Terra Nova—The Peninsulas,NL,PPC,1272
+10007,Terra Nova—The Peninsulas,NL,OTH,0
+11001,Cardigan,PE,LPC,10955
+11001,Cardigan,PE,CPC,6697
+11001,Cardigan,PE,NDP,2117
+11001,Cardigan,PE,BQ,0
+11001,Cardigan,PE,GPC,1042
+11001,Cardigan,PE,PPC,711
+11001,Cardigan,PE,OTH,143
+11002,Charlottetown,PE,LPC,8919
+11002,Charlottetown,PE,CPC,5932
+11002,Charlottetown,PE,NDP,2048
+11002,Charlottetown,PE,BQ,0
+11002,Charlottetown,PE,GPC,1832
+11002,Charlottetown,PE,PPC,369
+11002,Charlottetown,PE,OTH,0
+11003,Egmont,PE,LPC,9506
+11003,Egmont,PE,CPC,6422
+11003,Egmont,PE,NDP,1790
+11003,Egmont,PE,BQ,0
+11003,Egmont,PE,GPC,1948
+11003,Egmont,PE,PPC,1026
+11003,Egmont,PE,OTH,0
+11004,Malpeque,PE,LPC,9667
+11004,Malpeque,PE,CPC,7622
+11004,Malpeque,PE,NDP,1847
+11004,Malpeque,PE,BQ,0
+11004,Malpeque,PE,GPC,3226
+11004,Malpeque,PE,PPC,642
+11004,Malpeque,PE,OTH,2
+12001,Acadie—Annapolis,NS,LPC,12342
+12001,Acadie—Annapolis,NS,CPC,20634
+12001,Acadie—Annapolis,NS,NDP,5104
+12001,Acadie—Annapolis,NS,BQ,0
+12001,Acadie—Annapolis,NS,GPC,0
+12001,Acadie—Annapolis,NS,PPC,2133
+12001,Acadie—Annapolis,NS,OTH,0
+12002,Cape Breton—Canso—Antigonish,NS,LPC,19259
+12002,Cape Breton—Canso—Antigonish,NS,CPC,14882
+12002,Cape Breton—Canso—Antigonish,NS,NDP,6252
+12002,Cape Breton—Canso—Antigonish,NS,BQ,0
+12002,Cape Breton—Canso—Antigonish,NS,GPC,206
+12002,Cape Breton—Canso—Antigonish,NS,PPC,1676
+12002,Cape Breton—Canso—Antigonish,NS,OTH,116
+12003,Central Nova,NS,LPC,18031
+12003,Central Nova,NS,CPC,13370
+12003,Central Nova,NS,NDP,6572
+12003,Central Nova,NS,BQ,0
+12003,Central Nova,NS,GPC,620
+12003,Central Nova,NS,PPC,1624
+12003,Central Nova,NS,OTH,484
+12004,Cumberland—Colchester,NS,LPC,13822
+12004,Cumberland—Colchester,NS,CPC,18601
+12004,Cumberland—Colchester,NS,NDP,4984
+12004,Cumberland—Colchester,NS,BQ,0
+12004,Cumberland—Colchester,NS,GPC,1045
+12004,Cumberland—Colchester,NS,PPC,1687
+12004,Cumberland—Colchester,NS,OTH,278
+12005,Dartmouth—Cole Harbour,NS,LPC,25823
+12005,Dartmouth—Cole Harbour,NS,CPC,1441
+12005,Dartmouth—Cole Harbour,NS,NDP,16529
+12005,Dartmouth—Cole Harbour,NS,BQ,0
+12005,Dartmouth—Cole Harbour,NS,GPC,1457
+12005,Dartmouth—Cole Harbour,NS,PPC,4887
+12005,Dartmouth—Cole Harbour,NS,OTH,0
+12006,Halifax,NS,LPC,20087
+12006,Halifax,NS,CPC,6062
+12006,Halifax,NS,NDP,19160
+12006,Halifax,NS,BQ,0
+12006,Halifax,NS,GPC,1052
+12006,Halifax,NS,PPC,1003
+12006,Halifax,NS,OTH,192
+12007,Halifax West,NS,LPC,21758
+12007,Halifax West,NS,CPC,9858
+12007,Halifax West,NS,NDP,11895
+12007,Halifax West,NS,BQ,0
+12007,Halifax West,NS,GPC,1121
+12007,Halifax West,NS,PPC,1054
+12007,Halifax West,NS,OTH,68
+12008,Kings—Hants,NS,LPC,21582
+12008,Kings—Hants,NS,CPC,14704
+12008,Kings—Hants,NS,NDP,9186
+12008,Kings—Hants,NS,BQ,0
+12008,Kings—Hants,NS,GPC,940
+12008,Kings—Hants,NS,PPC,2202
+12008,Kings—Hants,NS,OTH,0
+12009,Sackville—Bedford—Preston,NS,LPC,22199
+12009,Sackville—Bedford—Preston,NS,CPC,12424
+12009,Sackville—Bedford—Preston,NS,NDP,12317
+12009,Sackville—Bedford—Preston,NS,BQ,0
+12009,Sackville—Bedford—Preston,NS,GPC,1019
+12009,Sackville—Bedford—Preston,NS,PPC,1732
+12009,Sackville—Bedford—Preston,NS,OTH,23
+12010,South Shore—St. Margarets,NS,LPC,14794
+12010,South Shore—St. Margarets,NS,CPC,18044
+12010,South Shore—St. Margarets,NS,NDP,7568
+12010,South Shore—St. Margarets,NS,BQ,0
+12010,South Shore—St. Margarets,NS,GPC,1176
+12010,South Shore—St. Margarets,NS,PPC,0
+12010,South Shore—St. Margarets,NS,OTH,0
+12011,Sydney—Glace Bay,NS,LPC,17539
+12011,Sydney—Glace Bay,NS,CPC,14294
+12011,Sydney—Glace Bay,NS,NDP,8265
+12011,Sydney—Glace Bay,NS,BQ,0
+12011,Sydney—Glace Bay,NS,GPC,267
+12011,Sydney—Glace Bay,NS,PPC,1367
+12011,Sydney—Glace Bay,NS,OTH,95
+13001,Acadie—Bathurst,NB,LPC,28724
+13001,Acadie—Bathurst,NB,CPC,6124
+13001,Acadie—Bathurst,NB,NDP,4975
+13001,Acadie—Bathurst,NB,BQ,0
+13001,Acadie—Bathurst,NB,GPC,1249
+13001,Acadie—Bathurst,NB,PPC,2594
+13001,Acadie—Bathurst,NB,OTH,549
+13002,Beauséjour,NB,LPC,27275
+13002,Beauséjour,NB,CPC,9538
+13002,Beauséjour,NB,NDP,5390
+13002,Beauséjour,NB,BQ,0
+13002,Beauséjour,NB,GPC,2797
+13002,Beauséjour,NB,PPC,3723
+13002,Beauséjour,NB,OTH,390
+13003,Fredericton—Oromocto,NB,LPC,16012
+13003,Fredericton—Oromocto,NB,CPC,14624
+13003,Fredericton—Oromocto,NB,NDP,5508
+13003,Fredericton—Oromocto,NB,BQ,0
+13003,Fredericton—Oromocto,NB,GPC,5461
+13003,Fredericton—Oromocto,NB,PPC,144
+13003,Fredericton—Oromocto,NB,OTH,626
+13004,Fundy Royal,NB,LPC,10008
+13004,Fundy Royal,NB,CPC,18120
+13004,Fundy Royal,NB,NDP,5672
+13004,Fundy Royal,NB,BQ,0
+13004,Fundy Royal,NB,GPC,1956
+13004,Fundy Royal,NB,PPC,3357
+13004,Fundy Royal,NB,OTH,0
+13005,Madawaska—Restigouche,NB,LPC,18784
+13005,Madawaska—Restigouche,NB,CPC,10032
+13005,Madawaska—Restigouche,NB,NDP,2227
+13005,Madawaska—Restigouche,NB,BQ,0
+13005,Madawaska—Restigouche,NB,GPC,981
+13005,Madawaska—Restigouche,NB,PPC,2724
+13005,Madawaska—Restigouche,NB,OTH,1382
+13006,Miramichi—Grand Lake,NB,LPC,12490
+13006,Miramichi—Grand Lake,NB,CPC,15345
+13006,Miramichi—Grand Lake,NB,NDP,2494
+13006,Miramichi—Grand Lake,NB,BQ,0
+13006,Miramichi—Grand Lake,NB,GPC,1582
+13006,Miramichi—Grand Lake,NB,PPC,1815
+13006,Miramichi—Grand Lake,NB,OTH,29
+13007,Moncton—Dieppe,NB,LPC,20347
+13007,Moncton—Dieppe,NB,CPC,9189
+13007,Moncton—Dieppe,NB,NDP,6834
+13007,Moncton—Dieppe,NB,BQ,0
+13007,Moncton—Dieppe,NB,GPC,1733
+13007,Moncton—Dieppe,NB,PPC,2563
+13007,Moncton—Dieppe,NB,OTH,1
+13008,Saint John—Kennebecasis,NB,LPC,16082
+13008,Saint John—Kennebecasis,NB,CPC,13737
+13008,Saint John—Kennebecasis,NB,NDP,4975
+13008,Saint John—Kennebecasis,NB,BQ,0
+13008,Saint John—Kennebecasis,NB,GPC,1106
+13008,Saint John—Kennebecasis,NB,PPC,1851
+13008,Saint John—Kennebecasis,NB,OTH,0
+13009,Saint John—St. Croix,NB,LPC,11955
+13009,Saint John—St. Croix,NB,CPC,20017
+13009,Saint John—St. Croix,NB,NDP,5575
+13009,Saint John—St. Croix,NB,BQ,0
+13009,Saint John—St. Croix,NB,GPC,1723
+13009,Saint John—St. Croix,NB,PPC,3255
+13009,Saint John—St. Croix,NB,OTH,65
+13010,Tobique—Mactaquac,NB,LPC,7269
+13010,Tobique—Mactaquac,NB,CPC,16954
+13010,Tobique—Mactaquac,NB,NDP,3702
+13010,Tobique—Mactaquac,NB,BQ,0
+13010,Tobique—Mactaquac,NB,GPC,1574
+13010,Tobique—Mactaquac,NB,PPC,2320
+13010,Tobique—Mactaquac,NB,OTH,275
+24001,Abitibi—Baie-James—Nunavik—Eeyou,QC,LPC,7384
+24001,Abitibi—Baie-James—Nunavik—Eeyou,QC,CPC,4508
+24001,Abitibi—Baie-James—Nunavik—Eeyou,QC,NDP,3323
+24001,Abitibi—Baie-James—Nunavik—Eeyou,QC,BQ,10784
+24001,Abitibi—Baie-James—Nunavik—Eeyou,QC,GPC,442
+24001,Abitibi—Baie-James—Nunavik—Eeyou,QC,PPC,1072
+24001,Abitibi—Baie-James—Nunavik—Eeyou,QC,OTH,923
+24002,Abitibi—Témiscamingue,QC,LPC,11013
+24002,Abitibi—Témiscamingue,QC,CPC,5339
+24002,Abitibi—Témiscamingue,QC,NDP,2794
+24002,Abitibi—Témiscamingue,QC,BQ,23120
+24002,Abitibi—Témiscamingue,QC,GPC,748
+24002,Abitibi—Témiscamingue,QC,PPC,1538
+24002,Abitibi—Témiscamingue,QC,OTH,1133
+24003,Ahuntsic-Cartierville,QC,LPC,25150
+24003,Ahuntsic-Cartierville,QC,CPC,3956
+24003,Ahuntsic-Cartierville,QC,NDP,5678
+24003,Ahuntsic-Cartierville,QC,BQ,10962
+24003,Ahuntsic-Cartierville,QC,GPC,1449
+24003,Ahuntsic-Cartierville,QC,PPC,1256
+24003,Ahuntsic-Cartierville,QC,OTH,0
+24004,Alfred-Pellan,QC,LPC,26946
+24004,Alfred-Pellan,QC,CPC,7497
+24004,Alfred-Pellan,QC,NDP,4419
+24004,Alfred-Pellan,QC,BQ,15013
+24004,Alfred-Pellan,QC,GPC,940
+24004,Alfred-Pellan,QC,PPC,192
+24004,Alfred-Pellan,QC,OTH,1467
+24005,Argenteuil—La Petite-Nation,QC,LPC,20476
+24005,Argenteuil—La Petite-Nation,QC,CPC,7047
+24005,Argenteuil—La Petite-Nation,QC,NDP,3730
+24005,Argenteuil—La Petite-Nation,QC,BQ,17153
+24005,Argenteuil—La Petite-Nation,QC,GPC,198
+24005,Argenteuil—La Petite-Nation,QC,PPC,3016
+24005,Argenteuil—La Petite-Nation,QC,OTH,665
+24006,Beauce,QC,LPC,7018
+24006,Beauce,QC,CPC,27514
+24006,Beauce,QC,NDP,1654
+24006,Beauce,QC,BQ,8644
+24006,Beauce,QC,GPC,486
+24006,Beauce,QC,PPC,10362
+24006,Beauce,QC,OTH,1302
+24007,Beauharnois—Salaberry—Soulanges—Huntingdon,QC,LPC,16458
+24007,Beauharnois—Salaberry—Soulanges—Huntingdon,QC,CPC,7141
+24007,Beauharnois—Salaberry—Soulanges—Huntingdon,QC,NDP,4474
+24007,Beauharnois—Salaberry—Soulanges—Huntingdon,QC,BQ,29130
+24007,Beauharnois—Salaberry—Soulanges—Huntingdon,QC,GPC,117
+24007,Beauharnois—Salaberry—Soulanges—Huntingdon,QC,PPC,1994
+24007,Beauharnois—Salaberry—Soulanges—Huntingdon,QC,OTH,969
+24008,Beauport—Limoilou,QC,LPC,14295
+24008,Beauport—Limoilou,QC,CPC,17714
+24008,Beauport—Limoilou,QC,NDP,5633
+24008,Beauport—Limoilou,QC,BQ,18017
+24008,Beauport—Limoilou,QC,GPC,1183
+24008,Beauport—Limoilou,QC,PPC,193
+24008,Beauport—Limoilou,QC,OTH,975
+24009,Bécancour—Nicolet—Saurel—Alnôbak,QC,LPC,8451
+24009,Bécancour—Nicolet—Saurel—Alnôbak,QC,CPC,8404
+24009,Bécancour—Nicolet—Saurel—Alnôbak,QC,NDP,2550
+24009,Bécancour—Nicolet—Saurel—Alnôbak,QC,BQ,27403
+24009,Bécancour—Nicolet—Saurel—Alnôbak,QC,GPC,770
+24009,Bécancour—Nicolet—Saurel—Alnôbak,QC,PPC,1214
+24009,Bécancour—Nicolet—Saurel—Alnôbak,QC,OTH,1215
+24010,Bellechasse—Les Etchemins—Lévis,QC,LPC,9070
+24010,Bellechasse—Les Etchemins—Lévis,QC,CPC,30341
+24010,Bellechasse—Les Etchemins—Lévis,QC,NDP,2869
+24010,Bellechasse—Les Etchemins—Lévis,QC,BQ,13280
+24010,Bellechasse—Les Etchemins—Lévis,QC,GPC,840
+24010,Bellechasse—Les Etchemins—Lévis,QC,PPC,0
+24010,Bellechasse—Les Etchemins—Lévis,QC,OTH,1945
+24011,Beloeil—Chambly,QC,LPC,14079
+24011,Beloeil—Chambly,QC,CPC,5041
+24011,Beloeil—Chambly,QC,NDP,5117
+24011,Beloeil—Chambly,QC,BQ,32161
+24011,Beloeil—Chambly,QC,GPC,1199
+24011,Beloeil—Chambly,QC,PPC,1212
+24011,Beloeil—Chambly,QC,OTH,1268
+24012,Berthier—Maskinongé,QC,LPC,8740
+24012,Berthier—Maskinongé,QC,CPC,6195
+24012,Berthier—Maskinongé,QC,NDP,18550
+24012,Berthier—Maskinongé,QC,BQ,20392
+24012,Berthier—Maskinongé,QC,GPC,548
+24012,Berthier—Maskinongé,QC,PPC,1496
+24012,Berthier—Maskinongé,QC,OTH,826
+24013,Bourassa,QC,LPC,22303
+24013,Bourassa,QC,CPC,2587
+24013,Bourassa,QC,NDP,2956
+24013,Bourassa,QC,BQ,6907
+24013,Bourassa,QC,GPC,679
+24013,Bourassa,QC,PPC,1349
+24013,Bourassa,QC,OTH,151
+24014,Brome—Missisquoi,QC,LPC,21488
+24014,Brome—Missisquoi,QC,CPC,9961
+24014,Brome—Missisquoi,QC,NDP,3828
+24014,Brome—Missisquoi,QC,BQ,21291
+24014,Brome—Missisquoi,QC,GPC,1466
+24014,Brome—Missisquoi,QC,PPC,1982
+24014,Brome—Missisquoi,QC,OTH,1455
+24015,Brossard—Saint-Lambert,QC,LPC,28326
+24015,Brossard—Saint-Lambert,QC,CPC,6276
+24015,Brossard—Saint-Lambert,QC,NDP,5442
+24015,Brossard—Saint-Lambert,QC,BQ,10441
+24015,Brossard—Saint-Lambert,QC,GPC,0
+24015,Brossard—Saint-Lambert,QC,PPC,1288
+24015,Brossard—Saint-Lambert,QC,OTH,583
+24016,Charlesbourg—Haute-Saint-Charles,QC,LPC,11681
+24016,Charlesbourg—Haute-Saint-Charles,QC,CPC,26759
+24016,Charlesbourg—Haute-Saint-Charles,QC,NDP,3516
+24016,Charlesbourg—Haute-Saint-Charles,QC,BQ,14642
+24016,Charlesbourg—Haute-Saint-Charles,QC,GPC,994
+24016,Charlesbourg—Haute-Saint-Charles,QC,PPC,1310
+24016,Charlesbourg—Haute-Saint-Charles,QC,OTH,531
+24017,Châteauguay—Les Jardins-de-Napierville,QC,LPC,19685
+24017,Châteauguay—Les Jardins-de-Napierville,QC,CPC,6559
+24017,Châteauguay—Les Jardins-de-Napierville,QC,NDP,4215
+24017,Châteauguay—Les Jardins-de-Napierville,QC,BQ,19730
+24017,Châteauguay—Les Jardins-de-Napierville,QC,GPC,801
+24017,Châteauguay—Les Jardins-de-Napierville,QC,PPC,2034
+24017,Châteauguay—Les Jardins-de-Napierville,QC,OTH,896
+24018,Chicoutimi—Le Fjord,QC,LPC,8653
+24018,Chicoutimi—Le Fjord,QC,CPC,19175
+24018,Chicoutimi—Le Fjord,QC,NDP,2234
+24018,Chicoutimi—Le Fjord,QC,BQ,16181
+24018,Chicoutimi—Le Fjord,QC,GPC,557
+24018,Chicoutimi—Le Fjord,QC,PPC,649
+24018,Chicoutimi—Le Fjord,QC,OTH,44
+24019,Compton—Stanstead,QC,LPC,21556
+24019,Compton—Stanstead,QC,CPC,10239
+24019,Compton—Stanstead,QC,NDP,4431
+24019,Compton—Stanstead,QC,BQ,17941
+24019,Compton—Stanstead,QC,GPC,1650
+24019,Compton—Stanstead,QC,PPC,2212
+24019,Compton—Stanstead,QC,OTH,771
+24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,QC,LPC,10906
+24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,QC,CPC,25691
+24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,QC,NDP,1933
+24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,QC,BQ,17062
+24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,QC,GPC,0
+24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,QC,PPC,202
+24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,QC,OTH,1445
+24021,Côte-Nord—Kawawachikamach—Nitassinan,QC,LPC,6545
+24021,Côte-Nord—Kawawachikamach—Nitassinan,QC,CPC,7640
+24021,Côte-Nord—Kawawachikamach—Nitassinan,QC,NDP,1509
+24021,Côte-Nord—Kawawachikamach—Nitassinan,QC,BQ,18419
+24021,Côte-Nord—Kawawachikamach—Nitassinan,QC,GPC,0
+24021,Côte-Nord—Kawawachikamach—Nitassinan,QC,PPC,0
+24021,Côte-Nord—Kawawachikamach—Nitassinan,QC,OTH,887
+24022,Dorval—Lachine—LaSalle,QC,LPC,24292
+24022,Dorval—Lachine—LaSalle,QC,CPC,5546
+24022,Dorval—Lachine—LaSalle,QC,NDP,6095
+24022,Dorval—Lachine—LaSalle,QC,BQ,7310
+24022,Dorval—Lachine—LaSalle,QC,GPC,1315
+24022,Dorval—Lachine—LaSalle,QC,PPC,1949
+24022,Dorval—Lachine—LaSalle,QC,OTH,0
+24023,Drummond,QC,LPC,9614
+24023,Drummond,QC,CPC,9179
+24023,Drummond,QC,NDP,5709
+24023,Drummond,QC,BQ,23866
+24023,Drummond,QC,GPC,0
+24023,Drummond,QC,PPC,0
+24023,Drummond,QC,OTH,2821
+24024,Gaspésie—Les Îles-de-la-Madeleine—Listuguj,QC,LPC,21289
+24024,Gaspésie—Les Îles-de-la-Madeleine—Listuguj,QC,CPC,4421
+24024,Gaspésie—Les Îles-de-la-Madeleine—Listuguj,QC,NDP,2288
+24024,Gaspésie—Les Îles-de-la-Madeleine—Listuguj,QC,BQ,23743
+24024,Gaspésie—Les Îles-de-la-Madeleine—Listuguj,QC,GPC,0
+24024,Gaspésie—Les Îles-de-la-Madeleine—Listuguj,QC,PPC,1074
+24024,Gaspésie—Les Îles-de-la-Madeleine—Listuguj,QC,OTH,731
+24025,Gatineau,QC,LPC,27380
+24025,Gatineau,QC,CPC,6076
+24025,Gatineau,QC,NDP,4715
+24025,Gatineau,QC,BQ,12810
+24025,Gatineau,QC,GPC,855
+24025,Gatineau,QC,PPC,2218
+24025,Gatineau,QC,OTH,646
+24026,Hochelaga—Rosemont-Est,QC,LPC,18586
+24026,Hochelaga—Rosemont-Est,QC,CPC,2276
+24026,Hochelaga—Rosemont-Est,QC,NDP,9808
+24026,Hochelaga—Rosemont-Est,QC,BQ,15192
+24026,Hochelaga—Rosemont-Est,QC,GPC,965
+24026,Hochelaga—Rosemont-Est,QC,PPC,1100
+24026,Hochelaga—Rosemont-Est,QC,OTH,430
+24027,Honoré-Mercier,QC,LPC,29280
+24027,Honoré-Mercier,QC,CPC,5145
+24027,Honoré-Mercier,QC,NDP,3570
+24027,Honoré-Mercier,QC,BQ,7946
+24027,Honoré-Mercier,QC,GPC,734
+24027,Honoré-Mercier,QC,PPC,2042
+24027,Honoré-Mercier,QC,OTH,88
+24028,Hull—Aylmer,QC,LPC,25446
+24028,Hull—Aylmer,QC,CPC,5229
+24028,Hull—Aylmer,QC,NDP,6177
+24028,Hull—Aylmer,QC,BQ,7810
+24028,Hull—Aylmer,QC,GPC,1368
+24028,Hull—Aylmer,QC,PPC,1772
+24028,Hull—Aylmer,QC,OTH,700
+24029,Joliette—Manawan,QC,LPC,11533
+24029,Joliette—Manawan,QC,CPC,4904
+24029,Joliette—Manawan,QC,NDP,2997
+24029,Joliette—Manawan,QC,BQ,28538
+24029,Joliette—Manawan,QC,GPC,1011
+24029,Joliette—Manawan,QC,PPC,1565
+24029,Joliette—Manawan,QC,OTH,1210
+24030,Jonquière,QC,LPC,9496
+24030,Jonquière,QC,CPC,12926
+24030,Jonquière,QC,NDP,2452
+24030,Jonquière,QC,BQ,19687
+24030,Jonquière,QC,GPC,774
+24030,Jonquière,QC,PPC,0
+24030,Jonquière,QC,OTH,328
+24031,La Pointe-de-l'Île,QC,LPC,16508
+24031,La Pointe-de-l'Île,QC,CPC,3427
+24031,La Pointe-de-l'Île,QC,NDP,4954
+24031,La Pointe-de-l'Île,QC,BQ,23835
+24031,La Pointe-de-l'Île,QC,GPC,0
+24031,La Pointe-de-l'Île,QC,PPC,1399
+24031,La Pointe-de-l'Île,QC,OTH,957
+24032,La Prairie—Atateken,QC,LPC,20470
+24032,La Prairie—Atateken,QC,CPC,5878
+24032,La Prairie—Atateken,QC,NDP,4317
+24032,La Prairie—Atateken,QC,BQ,25862
+24032,La Prairie—Atateken,QC,GPC,983
+24032,La Prairie—Atateken,QC,PPC,1532
+24032,La Prairie—Atateken,QC,OTH,98
+24033,Lac-Saint-Jean,QC,LPC,8444
+24033,Lac-Saint-Jean,QC,CPC,11249
+24033,Lac-Saint-Jean,QC,NDP,1454
+24033,Lac-Saint-Jean,QC,BQ,22662
+24033,Lac-Saint-Jean,QC,GPC,712
+24033,Lac-Saint-Jean,QC,PPC,0
+24033,Lac-Saint-Jean,QC,OTH,0
+24034,Lac-Saint-Louis,QC,LPC,32477
+24034,Lac-Saint-Louis,QC,CPC,10911
+24034,Lac-Saint-Louis,QC,NDP,7679
+24034,Lac-Saint-Louis,QC,BQ,3078
+24034,Lac-Saint-Louis,QC,GPC,1868
+24034,Lac-Saint-Louis,QC,PPC,1712
+24034,Lac-Saint-Louis,QC,OTH,0
+24035,LaSalle—Émard—Verdun,QC,LPC,21271
+24035,LaSalle—Émard—Verdun,QC,CPC,3738
+24035,LaSalle—Émard—Verdun,QC,NDP,9314
+24035,LaSalle—Émard—Verdun,QC,BQ,10693
+24035,LaSalle—Émard—Verdun,QC,GPC,1475
+24035,LaSalle—Émard—Verdun,QC,PPC,1671
+24035,LaSalle—Émard—Verdun,QC,OTH,832
+24036,Laurentides—Labelle,QC,LPC,10974
+24036,Laurentides—Labelle,QC,CPC,4910
+24036,Laurentides—Labelle,QC,NDP,2601
+24036,Laurentides—Labelle,QC,BQ,24463
+24036,Laurentides—Labelle,QC,GPC,1132
+24036,Laurentides—Labelle,QC,PPC,1701
+24036,Laurentides—Labelle,QC,OTH,984
+24037,Laurier—Sainte-Marie,QC,LPC,17689
+24037,Laurier—Sainte-Marie,QC,CPC,2013
+24037,Laurier—Sainte-Marie,QC,NDP,13625
+24037,Laurier—Sainte-Marie,QC,BQ,9015
+24037,Laurier—Sainte-Marie,QC,GPC,997
+24037,Laurier—Sainte-Marie,QC,PPC,791
+24037,Laurier—Sainte-Marie,QC,OTH,646
+24038,Laval—Les Îles,QC,LPC,24758
+24038,Laval—Les Îles,QC,CPC,8963
+24038,Laval—Les Îles,QC,NDP,3889
+24038,Laval—Les Îles,QC,BQ,9656
+24038,Laval—Les Îles,QC,GPC,760
+24038,Laval—Les Îles,QC,PPC,2571
+24038,Laval—Les Îles,QC,OTH,0
+24039,Les Pays-d'en-Haut,QC,LPC,14290
+24039,Les Pays-d'en-Haut,QC,CPC,6436
+24039,Les Pays-d'en-Haut,QC,NDP,3800
+24039,Les Pays-d'en-Haut,QC,BQ,26240
+24039,Les Pays-d'en-Haut,QC,GPC,844
+24039,Les Pays-d'en-Haut,QC,PPC,2388
+24039,Les Pays-d'en-Haut,QC,OTH,1192
+24040,Lévis—Lotbinière,QC,LPC,9380
+24040,Lévis—Lotbinière,QC,CPC,30333
+24040,Lévis—Lotbinière,QC,NDP,4445
+24040,Lévis—Lotbinière,QC,BQ,13929
+24040,Lévis—Lotbinière,QC,GPC,824
+24040,Lévis—Lotbinière,QC,PPC,1450
+24040,Lévis—Lotbinière,QC,OTH,674
+24041,Longueuil—Charles-LeMoyne,QC,LPC,19400
+24041,Longueuil—Charles-LeMoyne,QC,CPC,3986
+24041,Longueuil—Charles-LeMoyne,QC,NDP,4957
+24041,Longueuil—Charles-LeMoyne,QC,BQ,16926
+24041,Longueuil—Charles-LeMoyne,QC,GPC,1170
+24041,Longueuil—Charles-LeMoyne,QC,PPC,1409
+24041,Longueuil—Charles-LeMoyne,QC,OTH,122
+24042,Longueuil—Saint-Hubert,QC,LPC,21930
+24042,Longueuil—Saint-Hubert,QC,CPC,3964
+24042,Longueuil—Saint-Hubert,QC,NDP,4553
+24042,Longueuil—Saint-Hubert,QC,BQ,23579
+24042,Longueuil—Saint-Hubert,QC,GPC,1599
+24042,Longueuil—Saint-Hubert,QC,PPC,1358
+24042,Longueuil—Saint-Hubert,QC,OTH,252
+24043,Louis-Hébert,QC,LPC,21704
+24043,Louis-Hébert,QC,CPC,13805
+24043,Louis-Hébert,QC,NDP,4107
+24043,Louis-Hébert,QC,BQ,15337
+24043,Louis-Hébert,QC,GPC,1478
+24043,Louis-Hébert,QC,PPC,0
+24043,Louis-Hébert,QC,OTH,365
+24044,Louis-Saint-Laurent—Akiawenhrahk,QC,LPC,10145
+24044,Louis-Saint-Laurent—Akiawenhrahk,QC,CPC,30443
+24044,Louis-Saint-Laurent—Akiawenhrahk,QC,NDP,3087
+24044,Louis-Saint-Laurent—Akiawenhrahk,QC,BQ,11778
+24044,Louis-Saint-Laurent—Akiawenhrahk,QC,GPC,833
+24044,Louis-Saint-Laurent—Akiawenhrahk,QC,PPC,1244
+24044,Louis-Saint-Laurent—Akiawenhrahk,QC,OTH,985
+24045,Marc-Aurèle-Fortin,QC,LPC,22992
+24045,Marc-Aurèle-Fortin,QC,CPC,6120
+24045,Marc-Aurèle-Fortin,QC,NDP,4461
+24045,Marc-Aurèle-Fortin,QC,BQ,16055
+24045,Marc-Aurèle-Fortin,QC,GPC,0
+24045,Marc-Aurèle-Fortin,QC,PPC,1509
+24045,Marc-Aurèle-Fortin,QC,OTH,990
+24046,Mégantic—L'Érable—Lotbinière,QC,LPC,7240
+24046,Mégantic—L'Érable—Lotbinière,QC,CPC,30416
+24046,Mégantic—L'Érable—Lotbinière,QC,NDP,1675
+24046,Mégantic—L'Érable—Lotbinière,QC,BQ,10518
+24046,Mégantic—L'Érable—Lotbinière,QC,GPC,703
+24046,Mégantic—L'Érable—Lotbinière,QC,PPC,1888
+24046,Mégantic—L'Érable—Lotbinière,QC,OTH,1199
+24047,Mirabel,QC,LPC,11847
+24047,Mirabel,QC,CPC,6466
+24047,Mirabel,QC,NDP,4185
+24047,Mirabel,QC,BQ,22259
+24047,Mirabel,QC,GPC,1051
+24047,Mirabel,QC,PPC,1846
+24047,Mirabel,QC,OTH,926
+24048,Mount Royal,QC,LPC,23987
+24048,Mount Royal,QC,CPC,10057
+24048,Mount Royal,QC,NDP,3689
+24048,Mount Royal,QC,BQ,1701
+24048,Mount Royal,QC,GPC,1142
+24048,Mount Royal,QC,PPC,1107
+24048,Mount Royal,QC,OTH,101
+24049,Mont-Saint-Bruno—L'Acadie,QC,LPC,21397
+24049,Mont-Saint-Bruno—L'Acadie,QC,CPC,6080
+24049,Mont-Saint-Bruno—L'Acadie,QC,NDP,5216
+24049,Mont-Saint-Bruno—L'Acadie,QC,BQ,28528
+24049,Mont-Saint-Bruno—L'Acadie,QC,GPC,95
+24049,Mont-Saint-Bruno—L'Acadie,QC,PPC,1322
+24049,Mont-Saint-Bruno—L'Acadie,QC,OTH,81
+24050,Montcalm,QC,LPC,9730
+24050,Montcalm,QC,CPC,5686
+24050,Montcalm,QC,NDP,3054
+24050,Montcalm,QC,BQ,25917
+24050,Montcalm,QC,GPC,1244
+24050,Montcalm,QC,PPC,2085
+24050,Montcalm,QC,OTH,984
+24051,Montmorency—Charlevoix,QC,LPC,10630
+24051,Montmorency—Charlevoix,QC,CPC,17825
+24051,Montmorency—Charlevoix,QC,NDP,2436
+24051,Montmorency—Charlevoix,QC,BQ,19309
+24051,Montmorency—Charlevoix,QC,GPC,627
+24051,Montmorency—Charlevoix,QC,PPC,991
+24051,Montmorency—Charlevoix,QC,OTH,797
+24052,Notre-Dame-de-Grâce—Westmount,QC,LPC,25711
+24052,Notre-Dame-de-Grâce—Westmount,QC,CPC,6547
+24052,Notre-Dame-de-Grâce—Westmount,QC,NDP,9770
+24052,Notre-Dame-de-Grâce—Westmount,QC,BQ,2911
+24052,Notre-Dame-de-Grâce—Westmount,QC,GPC,1946
+24052,Notre-Dame-de-Grâce—Westmount,QC,PPC,1582
+24052,Notre-Dame-de-Grâce—Westmount,QC,OTH,197
+24053,Outremont,QC,LPC,18229
+24053,Outremont,QC,CPC,3005
+24053,Outremont,QC,NDP,11218
+24053,Outremont,QC,BQ,6346
+24053,Outremont,QC,GPC,1283
+24053,Outremont,QC,PPC,877
+24053,Outremont,QC,OTH,136
+24054,Papineau,QC,LPC,22848
+24054,Papineau,QC,CPC,2198
+24054,Papineau,QC,NDP,10303
+24054,Papineau,QC,BQ,6830
+24054,Papineau,QC,GPC,1448
+24054,Papineau,QC,PPC,1064
+24054,Papineau,QC,OTH,732
+24055,Pierre-Boucher—Les Patriotes—Verchères,QC,LPC,14282
+24055,Pierre-Boucher—Les Patriotes—Verchères,QC,CPC,4870
+24055,Pierre-Boucher—Les Patriotes—Verchères,QC,NDP,4261
+24055,Pierre-Boucher—Les Patriotes—Verchères,QC,BQ,29978
+24055,Pierre-Boucher—Les Patriotes—Verchères,QC,GPC,0
+24055,Pierre-Boucher—Les Patriotes—Verchères,QC,PPC,1078
+24055,Pierre-Boucher—Les Patriotes—Verchères,QC,OTH,777
+24056,Pierrefonds—Dollard,QC,LPC,29296
+24056,Pierrefonds—Dollard,QC,CPC,10893
+24056,Pierrefonds—Dollard,QC,NDP,6034
+24056,Pierrefonds—Dollard,QC,BQ,4141
+24056,Pierrefonds—Dollard,QC,GPC,0
+24056,Pierrefonds—Dollard,QC,PPC,1942
+24056,Pierrefonds—Dollard,QC,OTH,0
+24057,Pontiac—Kitigan Zibi,QC,LPC,23154
+24057,Pontiac—Kitigan Zibi,QC,CPC,11296
+24057,Pontiac—Kitigan Zibi,QC,NDP,5990
+24057,Pontiac—Kitigan Zibi,QC,BQ,8011
+24057,Pontiac—Kitigan Zibi,QC,GPC,1531
+24057,Pontiac—Kitigan Zibi,QC,PPC,2364
+24057,Pontiac—Kitigan Zibi,QC,OTH,447
+24058,Portneuf—Jacques-Cartier,QC,LPC,8614
+24058,Portneuf—Jacques-Cartier,QC,CPC,29771
+24058,Portneuf—Jacques-Cartier,QC,NDP,2686
+24058,Portneuf—Jacques-Cartier,QC,BQ,13501
+24058,Portneuf—Jacques-Cartier,QC,GPC,0
+24058,Portneuf—Jacques-Cartier,QC,PPC,1392
+24058,Portneuf—Jacques-Cartier,QC,OTH,910
+24059,Québec Centre,QC,LPC,19361
+24059,Québec Centre,QC,CPC,9766
+24059,Québec Centre,QC,NDP,6882
+24059,Québec Centre,QC,BQ,15734
+24059,Québec Centre,QC,GPC,1277
+24059,Québec Centre,QC,PPC,855
+24059,Québec Centre,QC,OTH,320
+24060,Repentigny,QC,LPC,15788
+24060,Repentigny,QC,CPC,4961
+24060,Repentigny,QC,NDP,4187
+24060,Repentigny,QC,BQ,28822
+24060,Repentigny,QC,GPC,0
+24060,Repentigny,QC,PPC,0
+24060,Repentigny,QC,OTH,2354
+24061,Richmond—Arthabaska,QC,LPC,8543
+24061,Richmond—Arthabaska,QC,CPC,28513
+24061,Richmond—Arthabaska,QC,NDP,2550
+24061,Richmond—Arthabaska,QC,BQ,14150
+24061,Richmond—Arthabaska,QC,GPC,0
+24061,Richmond—Arthabaska,QC,PPC,2058
+24061,Richmond—Arthabaska,QC,OTH,1345
+24062,Rimouski—La Matapédia,QC,LPC,10842
+24062,Rimouski—La Matapédia,QC,CPC,5497
+24062,Rimouski—La Matapédia,QC,NDP,2876
+24062,Rimouski—La Matapédia,QC,BQ,26658
+24062,Rimouski—La Matapédia,QC,GPC,0
+24062,Rimouski—La Matapédia,QC,PPC,1010
+24062,Rimouski—La Matapédia,QC,OTH,2215
+24063,Rivière-des-Mille-Îles,QC,LPC,18770
+24063,Rivière-des-Mille-Îles,QC,CPC,5441
+24063,Rivière-des-Mille-Îles,QC,NDP,3825
+24063,Rivière-des-Mille-Îles,QC,BQ,21522
+24063,Rivière-des-Mille-Îles,QC,GPC,966
+24063,Rivière-des-Mille-Îles,QC,PPC,1458
+24063,Rivière-des-Mille-Îles,QC,OTH,1108
+24064,Rivière-du-Nord,QC,LPC,11542
+24064,Rivière-du-Nord,QC,CPC,6183
+24064,Rivière-du-Nord,QC,NDP,3536
+24064,Rivière-du-Nord,QC,BQ,26505
+24064,Rivière-du-Nord,QC,GPC,149
+24064,Rivière-du-Nord,QC,PPC,1967
+24064,Rivière-du-Nord,QC,OTH,1482
+24065,Rosemont—La Petite-Patrie,QC,LPC,12738
+24065,Rosemont—La Petite-Patrie,QC,CPC,2199
+24065,Rosemont—La Petite-Patrie,QC,NDP,26708
+24065,Rosemont—La Petite-Patrie,QC,BQ,11751
+24065,Rosemont—La Petite-Patrie,QC,GPC,1308
+24065,Rosemont—La Petite-Patrie,QC,PPC,0
+24065,Rosemont—La Petite-Patrie,QC,OTH,284
+24066,Saint-Hyacinthe—Bagot—Acton,QC,LPC,12030
+24066,Saint-Hyacinthe—Bagot—Acton,QC,CPC,7166
+24066,Saint-Hyacinthe—Bagot—Acton,QC,NDP,6170
+24066,Saint-Hyacinthe—Bagot—Acton,QC,BQ,25165
+24066,Saint-Hyacinthe—Bagot—Acton,QC,GPC,0
+24066,Saint-Hyacinthe—Bagot—Acton,QC,PPC,1445
+24066,Saint-Hyacinthe—Bagot—Acton,QC,OTH,1055
+24067,Saint-Jean,QC,LPC,16650
+24067,Saint-Jean,QC,CPC,7544
+24067,Saint-Jean,QC,NDP,4308
+24067,Saint-Jean,QC,BQ,27243
+24067,Saint-Jean,QC,GPC,1262
+24067,Saint-Jean,QC,PPC,0
+24067,Saint-Jean,QC,OTH,2203
+24068,Saint-Laurent,QC,LPC,23308
+24068,Saint-Laurent,QC,CPC,7193
+24068,Saint-Laurent,QC,NDP,4225
+24068,Saint-Laurent,QC,BQ,3122
+24068,Saint-Laurent,QC,GPC,42
+24068,Saint-Laurent,QC,PPC,1239
+24068,Saint-Laurent,QC,OTH,146
+24069,Saint-Léonard—Saint-Michel,QC,LPC,28374
+24069,Saint-Léonard—Saint-Michel,QC,CPC,4266
+24069,Saint-Léonard—Saint-Michel,QC,NDP,3342
+24069,Saint-Léonard—Saint-Michel,QC,BQ,3254
+24069,Saint-Léonard—Saint-Michel,QC,GPC,0
+24069,Saint-Léonard—Saint-Michel,QC,PPC,1531
+24069,Saint-Léonard—Saint-Michel,QC,OTH,0
+24070,Saint-Maurice—Champlain,QC,LPC,23913
+24070,Saint-Maurice—Champlain,QC,CPC,10139
+24070,Saint-Maurice—Champlain,QC,NDP,2849
+24070,Saint-Maurice—Champlain,QC,BQ,16940
+24070,Saint-Maurice—Champlain,QC,GPC,731
+24070,Saint-Maurice—Champlain,QC,PPC,0
+24070,Saint-Maurice—Champlain,QC,OTH,1765
+24071,Shefford,QC,LPC,19968
+24071,Shefford,QC,CPC,7234
+24071,Shefford,QC,NDP,3173
+24071,Shefford,QC,BQ,24997
+24071,Shefford,QC,GPC,1059
+24071,Shefford,QC,PPC,2073
+24071,Shefford,QC,OTH,1122
+24072,Sherbrooke,QC,LPC,21462
+24072,Sherbrooke,QC,CPC,7338
+24072,Sherbrooke,QC,NDP,7964
+24072,Sherbrooke,QC,BQ,16588
+24072,Sherbrooke,QC,GPC,1643
+24072,Sherbrooke,QC,PPC,1408
+24072,Sherbrooke,QC,OTH,778
+24073,Terrebonne,QC,LPC,16528
+24073,Terrebonne,QC,CPC,5886
+24073,Terrebonne,QC,NDP,3742
+24073,Terrebonne,QC,BQ,23298
+24073,Terrebonne,QC,GPC,802
+24073,Terrebonne,QC,PPC,1506
+24073,Terrebonne,QC,OTH,4518
+24074,Thérèse-De Blainville,QC,LPC,19343
+24074,Thérèse-De Blainville,QC,CPC,6070
+24074,Thérèse-De Blainville,QC,NDP,3998
+24074,Thérèse-De Blainville,QC,BQ,22498
+24074,Thérèse-De Blainville,QC,GPC,1063
+24074,Thérèse-De Blainville,QC,PPC,1474
+24074,Thérèse-De Blainville,QC,OTH,511
+24075,Trois-Rivières,QC,LPC,16637
+24075,Trois-Rivières,QC,CPC,17053
+24075,Trois-Rivières,QC,NDP,4680
+24075,Trois-Rivières,QC,BQ,17136
+24075,Trois-Rivières,QC,GPC,754
+24075,Trois-Rivières,QC,PPC,1115
+24075,Trois-Rivières,QC,OTH,735
+24076,Vaudreuil,QC,LPC,28437
+24076,Vaudreuil,QC,CPC,9870
+24076,Vaudreuil,QC,NDP,6372
+24076,Vaudreuil,QC,BQ,12558
+24076,Vaudreuil,QC,GPC,1514
+24076,Vaudreuil,QC,PPC,0
+24076,Vaudreuil,QC,OTH,1158
+24077,Ville-Marie—Le Sud-Ouest—Île-des-Sœurs,QC,LPC,20831
+24077,Ville-Marie—Le Sud-Ouest—Île-des-Sœurs,QC,CPC,5199
+24077,Ville-Marie—Le Sud-Ouest—Île-des-Sœurs,QC,NDP,7333
+24077,Ville-Marie—Le Sud-Ouest—Île-des-Sœurs,QC,BQ,4843
+24077,Ville-Marie—Le Sud-Ouest—Île-des-Sœurs,QC,GPC,1083
+24077,Ville-Marie—Le Sud-Ouest—Île-des-Sœurs,QC,PPC,1059
+24077,Ville-Marie—Le Sud-Ouest—Île-des-Sœurs,QC,OTH,206
+24078,Vimy,QC,LPC,22886
+24078,Vimy,QC,CPC,6320
+24078,Vimy,QC,NDP,4258
+24078,Vimy,QC,BQ,10197
+24078,Vimy,QC,GPC,0
+24078,Vimy,QC,PPC,1983
+24078,Vimy,QC,OTH,0
+35001,Ajax,ON,LPC,28279
+35001,Ajax,ON,CPC,13237
+35001,Ajax,ON,NDP,6988
+35001,Ajax,ON,BQ,0
+35001,Ajax,ON,GPC,1254
+35001,Ajax,ON,PPC,0
+35001,Ajax,ON,OTH,0
+35002,Algonquin—Renfrew—Pembroke,ON,LPC,11335
+35002,Algonquin—Renfrew—Pembroke,ON,CPC,28967
+35002,Algonquin—Renfrew—Pembroke,ON,NDP,12263
+35002,Algonquin—Renfrew—Pembroke,ON,BQ,0
+35002,Algonquin—Renfrew—Pembroke,ON,GPC,1111
+35002,Algonquin—Renfrew—Pembroke,ON,PPC,4469
+35002,Algonquin—Renfrew—Pembroke,ON,OTH,373
+35003,Aurora—Oak Ridges—Richmond Hill,ON,LPC,21005
+35003,Aurora—Oak Ridges—Richmond Hill,ON,CPC,19766
+35003,Aurora—Oak Ridges—Richmond Hill,ON,NDP,3770
+35003,Aurora—Oak Ridges—Richmond Hill,ON,BQ,0
+35003,Aurora—Oak Ridges—Richmond Hill,ON,GPC,86
+35003,Aurora—Oak Ridges—Richmond Hill,ON,PPC,1818
+35003,Aurora—Oak Ridges—Richmond Hill,ON,OTH,478
+35004,Barrie South—Innisfil,ON,LPC,15292
+35004,Barrie South—Innisfil,ON,CPC,25234
+35004,Barrie South—Innisfil,ON,NDP,8349
+35004,Barrie South—Innisfil,ON,BQ,0
+35004,Barrie South—Innisfil,ON,GPC,0
+35004,Barrie South—Innisfil,ON,PPC,4060
+35004,Barrie South—Innisfil,ON,OTH,0
+35005,Barrie—Springwater—Oro-Medonte,ON,LPC,17481
+35005,Barrie—Springwater—Oro-Medonte,ON,CPC,26317
+35005,Barrie—Springwater—Oro-Medonte,ON,NDP,9552
+35005,Barrie—Springwater—Oro-Medonte,ON,BQ,0
+35005,Barrie—Springwater—Oro-Medonte,ON,GPC,123
+35005,Barrie—Springwater—Oro-Medonte,ON,PPC,3985
+35005,Barrie—Springwater—Oro-Medonte,ON,OTH,18
+35006,Bay of Quinte,ON,LPC,21590
+35006,Bay of Quinte,ON,CPC,23671
+35006,Bay of Quinte,ON,NDP,8897
+35006,Bay of Quinte,ON,BQ,0
+35006,Bay of Quinte,ON,GPC,1286
+35006,Bay of Quinte,ON,PPC,2878
+35006,Bay of Quinte,ON,OTH,0
+35007,Beaches—East York,ON,LPC,28919
+35007,Beaches—East York,ON,CPC,7336
+35007,Beaches—East York,ON,NDP,11513
+35007,Beaches—East York,ON,BQ,0
+35007,Beaches—East York,ON,GPC,1388
+35007,Beaches—East York,ON,PPC,1613
+35007,Beaches—East York,ON,OTH,347
+35008,Bowmanville—Oshawa North,ON,LPC,16981
+35008,Bowmanville—Oshawa North,ON,CPC,24668
+35008,Bowmanville—Oshawa North,ON,NDP,10131
+35008,Bowmanville—Oshawa North,ON,BQ,0
+35008,Bowmanville—Oshawa North,ON,GPC,0
+35008,Bowmanville—Oshawa North,ON,PPC,2982
+35008,Bowmanville—Oshawa North,ON,OTH,365
+35009,Brampton Centre,ON,LPC,16818
+35009,Brampton Centre,ON,CPC,10935
+35009,Brampton Centre,ON,NDP,5493
+35009,Brampton Centre,ON,BQ,0
+35009,Brampton Centre,ON,GPC,0
+35009,Brampton Centre,ON,PPC,1253
+35009,Brampton Centre,ON,OTH,305
+35010,Brampton—Chinguacousy Park,ON,LPC,19553
+35010,Brampton—Chinguacousy Park,ON,CPC,11933
+35010,Brampton—Chinguacousy Park,ON,NDP,6473
+35010,Brampton—Chinguacousy Park,ON,BQ,0
+35010,Brampton—Chinguacousy Park,ON,GPC,0
+35010,Brampton—Chinguacousy Park,ON,PPC,0
+35010,Brampton—Chinguacousy Park,ON,OTH,526
+35011,Brampton East,ON,LPC,20193
+35011,Brampton East,ON,CPC,10841
+35011,Brampton East,ON,NDP,5928
+35011,Brampton East,ON,BQ,0
+35011,Brampton East,ON,GPC,0
+35011,Brampton East,ON,PPC,1000
+35011,Brampton East,ON,OTH,0
+35012,Brampton North—Caledon,ON,LPC,18815
+35012,Brampton North—Caledon,ON,CPC,12140
+35012,Brampton North—Caledon,ON,NDP,5102
+35012,Brampton North—Caledon,ON,BQ,0
+35012,Brampton North—Caledon,ON,GPC,148
+35012,Brampton North—Caledon,ON,PPC,350
+35012,Brampton North—Caledon,ON,OTH,19
+35013,Brampton South,ON,LPC,19044
+35013,Brampton South,ON,CPC,10413
+35013,Brampton South,ON,NDP,4784
+35013,Brampton South,ON,BQ,0
+35013,Brampton South,ON,GPC,0
+35013,Brampton South,ON,PPC,1016
+35013,Brampton South,ON,OTH,91
+35014,Brampton West,ON,LPC,17524
+35014,Brampton West,ON,CPC,8632
+35014,Brampton West,ON,NDP,3973
+35014,Brampton West,ON,BQ,0
+35014,Brampton West,ON,GPC,0
+35014,Brampton West,ON,PPC,770
+35014,Brampton West,ON,OTH,230
+35015,Brantford—Brant South—Six Nations,ON,LPC,15543
+35015,Brantford—Brant South—Six Nations,ON,CPC,22466
+35015,Brantford—Brant South—Six Nations,ON,NDP,11373
+35015,Brantford—Brant South—Six Nations,ON,BQ,0
+35015,Brantford—Brant South—Six Nations,ON,GPC,1478
+35015,Brantford—Brant South—Six Nations,ON,PPC,4919
+35015,Brantford—Brant South—Six Nations,ON,OTH,269
+35016,Bruce—Grey—Owen Sound,ON,LPC,14738
+35016,Bruce—Grey—Owen Sound,ON,CPC,28727
+35016,Bruce—Grey—Owen Sound,ON,NDP,7939
+35016,Bruce—Grey—Owen Sound,ON,BQ,0
+35016,Bruce—Grey—Owen Sound,ON,GPC,1789
+35016,Bruce—Grey—Owen Sound,ON,PPC,4697
+35016,Bruce—Grey—Owen Sound,ON,OTH,524
+35017,Burlington,ON,LPC,31602
+35017,Burlington,ON,CPC,25742
+35017,Burlington,ON,NDP,7507
+35017,Burlington,ON,BQ,0
+35017,Burlington,ON,GPC,1368
+35017,Burlington,ON,PPC,2764
+35017,Burlington,ON,OTH,122
+35018,Burlington North—Milton West,ON,LPC,26645
+35018,Burlington North—Milton West,ON,CPC,20361
+35018,Burlington North—Milton West,ON,NDP,5342
+35018,Burlington North—Milton West,ON,BQ,0
+35018,Burlington North—Milton West,ON,GPC,1082
+35018,Burlington North—Milton West,ON,PPC,2205
+35018,Burlington North—Milton West,ON,OTH,0
+35019,Cambridge,ON,LPC,20599
+35019,Cambridge,ON,CPC,18389
+35019,Cambridge,ON,NDP,9204
+35019,Cambridge,ON,BQ,0
+35019,Cambridge,ON,GPC,1825
+35019,Cambridge,ON,PPC,3853
+35019,Cambridge,ON,OTH,0
+35020,Carleton,ON,LPC,22448
+35020,Carleton,ON,CPC,36534
+35020,Carleton,ON,NDP,8012
+35020,Carleton,ON,BQ,0
+35020,Carleton,ON,GPC,1512
+35020,Carleton,ON,PPC,1939
+35020,Carleton,ON,OTH,7
+35021,Chatham-Kent—Leamington,ON,LPC,17345
+35021,Chatham-Kent—Leamington,ON,CPC,27528
+35021,Chatham-Kent—Leamington,ON,NDP,9477
+35021,Chatham-Kent—Leamington,ON,BQ,0
+35021,Chatham-Kent—Leamington,ON,GPC,983
+35021,Chatham-Kent—Leamington,ON,PPC,9544
+35021,Chatham-Kent—Leamington,ON,OTH,0
+35022,Davenport,ON,LPC,23206
+35022,Davenport,ON,CPC,5777
+35022,Davenport,ON,NDP,21062
+35022,Davenport,ON,BQ,0
+35022,Davenport,ON,GPC,1277
+35022,Davenport,ON,PPC,1738
+35022,Davenport,ON,OTH,163
+35023,Don Valley North,ON,LPC,22186
+35023,Don Valley North,ON,CPC,13681
+35023,Don Valley North,ON,NDP,4173
+35023,Don Valley North,ON,BQ,0
+35023,Don Valley North,ON,GPC,761
+35023,Don Valley North,ON,PPC,1240
+35023,Don Valley North,ON,OTH,5
+35024,Don Valley West,ON,LPC,29537
+35024,Don Valley West,ON,CPC,15436
+35024,Don Valley West,ON,NDP,4730
+35024,Don Valley West,ON,BQ,0
+35024,Don Valley West,ON,GPC,548
+35024,Don Valley West,ON,PPC,1309
+35024,Don Valley West,ON,OTH,55
+35025,Dufferin—Caledon,ON,LPC,16541
+35025,Dufferin—Caledon,ON,CPC,28338
+35025,Dufferin—Caledon,ON,NDP,5995
+35025,Dufferin—Caledon,ON,BQ,0
+35025,Dufferin—Caledon,ON,GPC,2606
+35025,Dufferin—Caledon,ON,PPC,4112
+35025,Dufferin—Caledon,ON,OTH,188
+35026,Eglinton—Lawrence,ON,LPC,24051
+35026,Eglinton—Lawrence,ON,CPC,18082
+35026,Eglinton—Lawrence,ON,NDP,4543
+35026,Eglinton—Lawrence,ON,BQ,0
+35026,Eglinton—Lawrence,ON,GPC,1490
+35026,Eglinton—Lawrence,ON,PPC,1445
+35026,Eglinton—Lawrence,ON,OTH,0
+35027,Elgin—St. Thomas—London South,ON,LPC,10854
+35027,Elgin—St. Thomas—London South,ON,CPC,27199
+35027,Elgin—St. Thomas—London South,ON,NDP,8933
+35027,Elgin—St. Thomas—London South,ON,BQ,0
+35027,Elgin—St. Thomas—London South,ON,GPC,1223
+35027,Elgin—St. Thomas—London South,ON,PPC,6726
+35027,Elgin—St. Thomas—London South,ON,OTH,292
+35028,Essex,ON,LPC,10554
+35028,Essex,ON,CPC,27980
+35028,Essex,ON,NDP,21623
+35028,Essex,ON,BQ,0
+35028,Essex,ON,GPC,843
+35028,Essex,ON,PPC,6968
+35028,Essex,ON,OTH,337
+35029,Etobicoke Centre,ON,LPC,28363
+35029,Etobicoke Centre,ON,CPC,20089
+35029,Etobicoke Centre,ON,NDP,6340
+35029,Etobicoke Centre,ON,BQ,0
+35029,Etobicoke Centre,ON,GPC,186
+35029,Etobicoke Centre,ON,PPC,3881
+35029,Etobicoke Centre,ON,OTH,63
+35030,Etobicoke—Lakeshore,ON,LPC,26199
+35030,Etobicoke—Lakeshore,ON,CPC,18047
+35030,Etobicoke—Lakeshore,ON,NDP,7498
+35030,Etobicoke—Lakeshore,ON,BQ,0
+35030,Etobicoke—Lakeshore,ON,GPC,1177
+35030,Etobicoke—Lakeshore,ON,PPC,2445
+35030,Etobicoke—Lakeshore,ON,OTH,216
+35031,Etobicoke North,ON,LPC,21566
+35031,Etobicoke North,ON,CPC,9317
+35031,Etobicoke North,ON,NDP,3862
+35031,Etobicoke North,ON,BQ,0
+35031,Etobicoke North,ON,GPC,0
+35031,Etobicoke North,ON,PPC,1591
+35031,Etobicoke North,ON,OTH,292
+35032,Flamborough—Glanbrook—Brant North,ON,LPC,17511
+35032,Flamborough—Glanbrook—Brant North,ON,CPC,23563
+35032,Flamborough—Glanbrook—Brant North,ON,NDP,7866
+35032,Flamborough—Glanbrook—Brant North,ON,BQ,0
+35032,Flamborough—Glanbrook—Brant North,ON,GPC,1314
+35032,Flamborough—Glanbrook—Brant North,ON,PPC,3516
+35032,Flamborough—Glanbrook—Brant North,ON,OTH,49
+35033,Guelph,ON,LPC,23882
+35033,Guelph,ON,CPC,13536
+35033,Guelph,ON,NDP,12712
+35033,Guelph,ON,BQ,0
+35033,Guelph,ON,GPC,4530
+35033,Guelph,ON,PPC,2692
+35033,Guelph,ON,OTH,381
+35034,Haldimand—Norfolk,ON,LPC,17224
+35034,Haldimand—Norfolk,ON,CPC,29664
+35034,Haldimand—Norfolk,ON,NDP,8320
+35034,Haldimand—Norfolk,ON,BQ,0
+35034,Haldimand—Norfolk,ON,GPC,0
+35034,Haldimand—Norfolk,ON,PPC,6570
+35034,Haldimand—Norfolk,ON,OTH,814
+35035,Haliburton—Kawartha Lakes,ON,LPC,15826
+35035,Haliburton—Kawartha Lakes,ON,CPC,34462
+35035,Haliburton—Kawartha Lakes,ON,NDP,9438
+35035,Haliburton—Kawartha Lakes,ON,BQ,0
+35035,Haliburton—Kawartha Lakes,ON,GPC,1628
+35035,Haliburton—Kawartha Lakes,ON,PPC,4541
+35035,Haliburton—Kawartha Lakes,ON,OTH,413
+35036,Hamilton Centre,ON,LPC,13315
+35036,Hamilton Centre,ON,CPC,8227
+35036,Hamilton Centre,ON,NDP,23390
+35036,Hamilton Centre,ON,BQ,0
+35036,Hamilton Centre,ON,GPC,1325
+35036,Hamilton Centre,ON,PPC,3271
+35036,Hamilton Centre,ON,OTH,283
+35037,Hamilton East—Stoney Creek,ON,LPC,21461
+35037,Hamilton East—Stoney Creek,ON,CPC,16546
+35037,Hamilton East—Stoney Creek,ON,NDP,11910
+35037,Hamilton East—Stoney Creek,ON,BQ,0
+35037,Hamilton East—Stoney Creek,ON,GPC,1022
+35037,Hamilton East—Stoney Creek,ON,PPC,3986
+35037,Hamilton East—Stoney Creek,ON,OTH,0
+35038,Hamilton Mountain,ON,LPC,17962
+35038,Hamilton Mountain,ON,CPC,13042
+35038,Hamilton Mountain,ON,NDP,16433
+35038,Hamilton Mountain,ON,BQ,0
+35038,Hamilton Mountain,ON,GPC,1039
+35038,Hamilton Mountain,ON,PPC,3289
+35038,Hamilton Mountain,ON,OTH,306
+35039,Hamilton West—Ancaster—Dundas,ON,LPC,28561
+35039,Hamilton West—Ancaster—Dundas,ON,CPC,18744
+35039,Hamilton West—Ancaster—Dundas,ON,NDP,12708
+35039,Hamilton West—Ancaster—Dundas,ON,BQ,0
+35039,Hamilton West—Ancaster—Dundas,ON,GPC,1683
+35039,Hamilton West—Ancaster—Dundas,ON,PPC,2645
+35039,Hamilton West—Ancaster—Dundas,ON,OTH,137
+35040,Hastings—Lennox and Addington—Tyendinaga,ON,LPC,20008
+35040,Hastings—Lennox and Addington—Tyendinaga,ON,CPC,26458
+35040,Hastings—Lennox and Addington—Tyendinaga,ON,NDP,6407
+35040,Hastings—Lennox and Addington—Tyendinaga,ON,BQ,0
+35040,Hastings—Lennox and Addington—Tyendinaga,ON,GPC,1035
+35040,Hastings—Lennox and Addington—Tyendinaga,ON,PPC,3298
+35040,Hastings—Lennox and Addington—Tyendinaga,ON,OTH,838
+35041,Humber River—Black Creek,ON,LPC,19533
+35041,Humber River—Black Creek,ON,CPC,5599
+35041,Humber River—Black Creek,ON,NDP,5279
+35041,Humber River—Black Creek,ON,BQ,0
+35041,Humber River—Black Creek,ON,GPC,388
+35041,Humber River—Black Creek,ON,PPC,1258
+35041,Humber River—Black Creek,ON,OTH,130
+35042,Huron—Bruce,ON,LPC,16015
+35042,Huron—Bruce,ON,CPC,31170
+35042,Huron—Bruce,ON,NDP,9056
+35042,Huron—Bruce,ON,BQ,0
+35042,Huron—Bruce,ON,GPC,0
+35042,Huron—Bruce,ON,PPC,4437
+35042,Huron—Bruce,ON,OTH,519
+35043,Kanata,ON,LPC,27667
+35043,Kanata,ON,CPC,23620
+35043,Kanata,ON,NDP,9419
+35043,Kanata,ON,BQ,0
+35043,Kanata,ON,GPC,1626
+35043,Kanata,ON,PPC,1771
+35043,Kanata,ON,OTH,0
+35044,Kapuskasing—Timmins—Mushkegowuk,ON,LPC,10682
+35044,Kapuskasing—Timmins—Mushkegowuk,ON,CPC,10257
+35044,Kapuskasing—Timmins—Mushkegowuk,ON,NDP,14582
+35044,Kapuskasing—Timmins—Mushkegowuk,ON,BQ,0
+35044,Kapuskasing—Timmins—Mushkegowuk,ON,GPC,162
+35044,Kapuskasing—Timmins—Mushkegowuk,ON,PPC,4999
+35044,Kapuskasing—Timmins—Mushkegowuk,ON,OTH,58
+35045,Kenora—Kiiwetinoong,ON,LPC,5055
+35045,Kenora—Kiiwetinoong,ON,CPC,11033
+35045,Kenora—Kiiwetinoong,ON,NDP,7422
+35045,Kenora—Kiiwetinoong,ON,BQ,0
+35045,Kenora—Kiiwetinoong,ON,GPC,354
+35045,Kenora—Kiiwetinoong,ON,PPC,1606
+35045,Kenora—Kiiwetinoong,ON,OTH,0
+35046,Kingston and the Islands,ON,LPC,29171
+35046,Kingston and the Islands,ON,CPC,17599
+35046,Kingston and the Islands,ON,NDP,20647
+35046,Kingston and the Islands,ON,BQ,0
+35046,Kingston and the Islands,ON,GPC,1761
+35046,Kingston and the Islands,ON,PPC,2499
+35046,Kingston and the Islands,ON,OTH,10
+35047,King—Vaughan,ON,LPC,19192
+35047,King—Vaughan,ON,CPC,20069
+35047,King—Vaughan,ON,NDP,2962
+35047,King—Vaughan,ON,BQ,0
+35047,King—Vaughan,ON,GPC,569
+35047,King—Vaughan,ON,PPC,1948
+35047,King—Vaughan,ON,OTH,0
+35048,Kitchener Centre,ON,LPC,8943
+35048,Kitchener Centre,ON,CPC,12798
+35048,Kitchener Centre,ON,NDP,9015
+35048,Kitchener Centre,ON,BQ,0
+35048,Kitchener Centre,ON,GPC,17190
+35048,Kitchener Centre,ON,PPC,3425
+35048,Kitchener Centre,ON,OTH,146
+35049,Kitchener—Conestoga,ON,LPC,20489
+35049,Kitchener—Conestoga,ON,CPC,20140
+35049,Kitchener—Conestoga,ON,NDP,6381
+35049,Kitchener—Conestoga,ON,BQ,0
+35049,Kitchener—Conestoga,ON,GPC,2626
+35049,Kitchener—Conestoga,ON,PPC,3865
+35049,Kitchener—Conestoga,ON,OTH,8
+35050,Kitchener South—Hespeler,ON,LPC,18596
+35050,Kitchener South—Hespeler,ON,CPC,17649
+35050,Kitchener South—Hespeler,ON,NDP,8079
+35050,Kitchener South—Hespeler,ON,BQ,0
+35050,Kitchener South—Hespeler,ON,GPC,1710
+35050,Kitchener South—Hespeler,ON,PPC,3351
+35050,Kitchener South—Hespeler,ON,OTH,269
+35051,Lanark—Frontenac,ON,LPC,15170
+35051,Lanark—Frontenac,ON,CPC,29182
+35051,Lanark—Frontenac,ON,NDP,8956
+35051,Lanark—Frontenac,ON,BQ,0
+35051,Lanark—Frontenac,ON,GPC,1576
+35051,Lanark—Frontenac,ON,PPC,3645
+35051,Lanark—Frontenac,ON,OTH,201
+35052,Leeds—Grenville—Thousand Islands—Rideau Lakes,ON,LPC,14935
+35052,Leeds—Grenville—Thousand Islands—Rideau Lakes,ON,CPC,29950
+35052,Leeds—Grenville—Thousand Islands—Rideau Lakes,ON,NDP,8863
+35052,Leeds—Grenville—Thousand Islands—Rideau Lakes,ON,BQ,0
+35052,Leeds—Grenville—Thousand Islands—Rideau Lakes,ON,GPC,2134
+35052,Leeds—Grenville—Thousand Islands—Rideau Lakes,ON,PPC,3394
+35052,Leeds—Grenville—Thousand Islands—Rideau Lakes,ON,OTH,0
+35053,London Centre,ON,LPC,20854
+35053,London Centre,ON,CPC,13775
+35053,London Centre,ON,NDP,16874
+35053,London Centre,ON,BQ,0
+35053,London Centre,ON,GPC,1091
+35053,London Centre,ON,PPC,2861
+35053,London Centre,ON,OTH,83
+35054,London—Fanshawe,ON,LPC,11780
+35054,London—Fanshawe,ON,CPC,12406
+35054,London—Fanshawe,ON,NDP,22236
+35054,London—Fanshawe,ON,BQ,0
+35054,London—Fanshawe,ON,GPC,0
+35054,London—Fanshawe,ON,PPC,4692
+35054,London—Fanshawe,ON,OTH,0
+35055,London West,ON,LPC,20781
+35055,London West,ON,CPC,19247
+35055,London West,ON,NDP,12895
+35055,London West,ON,BQ,0
+35055,London West,ON,GPC,0
+35055,London West,ON,PPC,2814
+35055,London West,ON,OTH,625
+35056,Markham—Stouffville,ON,LPC,25391
+35056,Markham—Stouffville,ON,CPC,17118
+35056,Markham—Stouffville,ON,NDP,4329
+35056,Markham—Stouffville,ON,BQ,0
+35056,Markham—Stouffville,ON,GPC,972
+35056,Markham—Stouffville,ON,PPC,1448
+35056,Markham—Stouffville,ON,OTH,0
+35057,Markham—Thornhill,ON,LPC,27193
+35057,Markham—Thornhill,ON,CPC,11659
+35057,Markham—Thornhill,ON,NDP,3693
+35057,Markham—Thornhill,ON,BQ,0
+35057,Markham—Thornhill,ON,GPC,883
+35057,Markham—Thornhill,ON,PPC,762
+35057,Markham—Thornhill,ON,OTH,0
+35058,Markham—Unionville,ON,LPC,20107
+35058,Markham—Unionville,ON,CPC,17690
+35058,Markham—Unionville,ON,NDP,2731
+35058,Markham—Unionville,ON,BQ,0
+35058,Markham—Unionville,ON,GPC,1162
+35058,Markham—Unionville,ON,PPC,0
+35058,Markham—Unionville,ON,OTH,0
+35059,Middlesex—London,ON,LPC,15987
+35059,Middlesex—London,ON,CPC,26642
+35059,Middlesex—London,ON,NDP,10506
+35059,Middlesex—London,ON,BQ,0
+35059,Middlesex—London,ON,GPC,1066
+35059,Middlesex—London,ON,PPC,4570
+35059,Middlesex—London,ON,OTH,101
+35060,Milton East—Halton Hills South,ON,LPC,21508
+35060,Milton East—Halton Hills South,ON,CPC,21269
+35060,Milton East—Halton Hills South,ON,NDP,4935
+35060,Milton East—Halton Hills South,ON,BQ,0
+35060,Milton East—Halton Hills South,ON,GPC,1339
+35060,Milton East—Halton Hills South,ON,PPC,2514
+35060,Milton East—Halton Hills South,ON,OTH,0
+35061,Mississauga Centre,ON,LPC,24922
+35061,Mississauga Centre,ON,CPC,13345
+35061,Mississauga Centre,ON,NDP,5234
+35061,Mississauga Centre,ON,BQ,0
+35061,Mississauga Centre,ON,GPC,750
+35061,Mississauga Centre,ON,PPC,1939
+35061,Mississauga Centre,ON,OTH,61
+35062,Mississauga East—Cooksville,ON,LPC,23278
+35062,Mississauga East—Cooksville,ON,CPC,14632
+35062,Mississauga East—Cooksville,ON,NDP,4863
+35062,Mississauga East—Cooksville,ON,BQ,0
+35062,Mississauga East—Cooksville,ON,GPC,150
+35062,Mississauga East—Cooksville,ON,PPC,2988
+35062,Mississauga East—Cooksville,ON,OTH,388
+35063,Mississauga—Erin Mills,ON,LPC,25115
+35063,Mississauga—Erin Mills,ON,CPC,16440
+35063,Mississauga—Erin Mills,ON,NDP,5054
+35063,Mississauga—Erin Mills,ON,BQ,0
+35063,Mississauga—Erin Mills,ON,GPC,802
+35063,Mississauga—Erin Mills,ON,PPC,1650
+35063,Mississauga—Erin Mills,ON,OTH,0
+35064,Mississauga—Lakeshore,ON,LPC,25822
+35064,Mississauga—Lakeshore,ON,CPC,22134
+35064,Mississauga—Lakeshore,ON,NDP,5606
+35064,Mississauga—Lakeshore,ON,BQ,0
+35064,Mississauga—Lakeshore,ON,GPC,1265
+35064,Mississauga—Lakeshore,ON,PPC,2444
+35064,Mississauga—Lakeshore,ON,OTH,101
+35065,Mississauga—Malton,ON,LPC,22659
+35065,Mississauga—Malton,ON,CPC,13244
+35065,Mississauga—Malton,ON,NDP,5912
+35065,Mississauga—Malton,ON,BQ,0
+35065,Mississauga—Malton,ON,GPC,801
+35065,Mississauga—Malton,ON,PPC,129
+35065,Mississauga—Malton,ON,OTH,271
+35066,Mississauga—Streetsville,ON,LPC,23343
+35066,Mississauga—Streetsville,ON,CPC,16921
+35066,Mississauga—Streetsville,ON,NDP,5963
+35066,Mississauga—Streetsville,ON,BQ,0
+35066,Mississauga—Streetsville,ON,GPC,1048
+35066,Mississauga—Streetsville,ON,PPC,1840
+35066,Mississauga—Streetsville,ON,OTH,194
+35067,Nepean,ON,LPC,27348
+35067,Nepean,ON,CPC,19953
+35067,Nepean,ON,NDP,9700
+35067,Nepean,ON,BQ,0
+35067,Nepean,ON,GPC,1162
+35067,Nepean,ON,PPC,1631
+35067,Nepean,ON,OTH,1
+35068,Newmarket—Aurora,ON,LPC,22067
+35068,Newmarket—Aurora,ON,CPC,19236
+35068,Newmarket—Aurora,ON,NDP,5824
+35068,Newmarket—Aurora,ON,BQ,0
+35068,Newmarket—Aurora,ON,GPC,929
+35068,Newmarket—Aurora,ON,PPC,2114
+35068,Newmarket—Aurora,ON,OTH,240
+35069,New Tecumseth—Gwillimbury,ON,LPC,14987
+35069,New Tecumseth—Gwillimbury,ON,CPC,23600
+35069,New Tecumseth—Gwillimbury,ON,NDP,6461
+35069,New Tecumseth—Gwillimbury,ON,BQ,0
+35069,New Tecumseth—Gwillimbury,ON,GPC,613
+35069,New Tecumseth—Gwillimbury,ON,PPC,3708
+35069,New Tecumseth—Gwillimbury,ON,OTH,140
+35070,Niagara Falls—Niagara-on-the-Lake,ON,LPC,18972
+35070,Niagara Falls—Niagara-on-the-Lake,ON,CPC,20173
+35070,Niagara Falls—Niagara-on-the-Lake,ON,NDP,9625
+35070,Niagara Falls—Niagara-on-the-Lake,ON,BQ,0
+35070,Niagara Falls—Niagara-on-the-Lake,ON,GPC,1050
+35070,Niagara Falls—Niagara-on-the-Lake,ON,PPC,4088
+35070,Niagara Falls—Niagara-on-the-Lake,ON,OTH,0
+35071,Niagara South,ON,LPC,21622
+35071,Niagara South,ON,CPC,21920
+35071,Niagara South,ON,NDP,14952
+35071,Niagara South,ON,BQ,0
+35071,Niagara South,ON,GPC,1247
+35071,Niagara South,ON,PPC,5869
+35071,Niagara South,ON,OTH,0
+35072,Niagara West,ON,LPC,19391
+35072,Niagara West,ON,CPC,27497
+35072,Niagara West,ON,NDP,8724
+35072,Niagara West,ON,BQ,0
+35072,Niagara West,ON,GPC,1749
+35072,Niagara West,ON,PPC,4430
+35072,Niagara West,ON,OTH,657
+35073,Nipissing—Timiskaming,ON,LPC,19007
+35073,Nipissing—Timiskaming,ON,CPC,16438
+35073,Nipissing—Timiskaming,ON,NDP,12031
+35073,Nipissing—Timiskaming,ON,BQ,0
+35073,Nipissing—Timiskaming,ON,GPC,0
+35073,Nipissing—Timiskaming,ON,PPC,4088
+35073,Nipissing—Timiskaming,ON,OTH,0
+35074,Northumberland—Clarke,ON,LPC,21311
+35074,Northumberland—Clarke,ON,CPC,27553
+35074,Northumberland—Clarke,ON,NDP,8735
+35074,Northumberland—Clarke,ON,BQ,0
+35074,Northumberland—Clarke,ON,GPC,1608
+35074,Northumberland—Clarke,ON,PPC,3430
+35074,Northumberland—Clarke,ON,OTH,0
+35075,Oakville East,ON,LPC,22709
+35075,Oakville East,ON,CPC,19376
+35075,Oakville East,ON,NDP,4619
+35075,Oakville East,ON,BQ,0
+35075,Oakville East,ON,GPC,806
+35075,Oakville East,ON,PPC,1627
+35075,Oakville East,ON,OTH,0
+35076,Oakville West,ON,LPC,23623
+35076,Oakville West,ON,CPC,19136
+35076,Oakville West,ON,NDP,4330
+35076,Oakville West,ON,BQ,0
+35076,Oakville West,ON,GPC,854
+35076,Oakville West,ON,PPC,1800
+35076,Oakville West,ON,OTH,0
+35077,Orléans,ON,LPC,36060
+35077,Orléans,ON,CPC,19752
+35077,Orléans,ON,NDP,9953
+35077,Orléans,ON,BQ,0
+35077,Orléans,ON,GPC,1116
+35077,Orléans,ON,PPC,1818
+35077,Orléans,ON,OTH,196
+35078,Oshawa,ON,LPC,13044
+35078,Oshawa,ON,CPC,22409
+35078,Oshawa,ON,NDP,16079
+35078,Oshawa,ON,BQ,0
+35078,Oshawa,ON,GPC,864
+35078,Oshawa,ON,PPC,4029
+35078,Oshawa,ON,OTH,0
+35079,Ottawa Centre,ON,LPC,33549
+35079,Ottawa Centre,ON,CPC,12073
+35079,Ottawa Centre,ON,NDP,24258
+35079,Ottawa Centre,ON,BQ,0
+35079,Ottawa Centre,ON,GPC,2074
+35079,Ottawa Centre,ON,PPC,1659
+35079,Ottawa Centre,ON,OTH,548
+35080,Ottawa South,ON,LPC,29250
+35080,Ottawa South,ON,CPC,15963
+35080,Ottawa South,ON,NDP,10729
+35080,Ottawa South,ON,BQ,0
+35080,Ottawa South,ON,GPC,1300
+35080,Ottawa South,ON,PPC,1829
+35080,Ottawa South,ON,OTH,124
+35081,Ottawa—Vanier—Gloucester,ON,LPC,30441
+35081,Ottawa—Vanier—Gloucester,ON,CPC,12757
+35081,Ottawa—Vanier—Gloucester,ON,NDP,14451
+35081,Ottawa—Vanier—Gloucester,ON,BQ,0
+35081,Ottawa—Vanier—Gloucester,ON,GPC,1892
+35081,Ottawa—Vanier—Gloucester,ON,PPC,1981
+35081,Ottawa—Vanier—Gloucester,ON,OTH,599
+35082,Ottawa West—Nepean,ON,LPC,29159
+35082,Ottawa West—Nepean,ON,CPC,17761
+35082,Ottawa West—Nepean,ON,NDP,12979
+35082,Ottawa West—Nepean,ON,BQ,0
+35082,Ottawa West—Nepean,ON,GPC,1853
+35082,Ottawa West—Nepean,ON,PPC,2056
+35082,Ottawa West—Nepean,ON,OTH,392
+35083,Oxford,ON,LPC,12471
+35083,Oxford,ON,CPC,28222
+35083,Oxford,ON,NDP,11124
+35083,Oxford,ON,BQ,0
+35083,Oxford,ON,GPC,1629
+35083,Oxford,ON,PPC,6418
+35083,Oxford,ON,OTH,457
+35084,Parry Sound—Muskoka,ON,LPC,12015
+35084,Parry Sound—Muskoka,ON,CPC,26603
+35084,Parry Sound—Muskoka,ON,NDP,9340
+35084,Parry Sound—Muskoka,ON,BQ,0
+35084,Parry Sound—Muskoka,ON,GPC,3099
+35084,Parry Sound—Muskoka,ON,PPC,4184
+35084,Parry Sound—Muskoka,ON,OTH,264
+35085,Perth—Wellington,ON,LPC,13684
+35085,Perth—Wellington,ON,CPC,26984
+35085,Perth—Wellington,ON,NDP,9552
+35085,Perth—Wellington,ON,BQ,0
+35085,Perth—Wellington,ON,GPC,0
+35085,Perth—Wellington,ON,PPC,5357
+35085,Perth—Wellington,ON,OTH,0
+35086,Peterborough,ON,LPC,25008
+35086,Peterborough,ON,CPC,28144
+35086,Peterborough,ON,NDP,13762
+35086,Peterborough,ON,BQ,0
+35086,Peterborough,ON,GPC,1603
+35086,Peterborough,ON,PPC,3095
+35086,Peterborough,ON,OTH,203
+35087,Pickering—Brooklin,ON,LPC,27011
+35087,Pickering—Brooklin,ON,CPC,19217
+35087,Pickering—Brooklin,ON,NDP,7562
+35087,Pickering—Brooklin,ON,BQ,0
+35087,Pickering—Brooklin,ON,GPC,139
+35087,Pickering—Brooklin,ON,PPC,2158
+35087,Pickering—Brooklin,ON,OTH,0
+35088,Prescott—Russell—Cumberland,ON,LPC,29091
+35088,Prescott—Russell—Cumberland,ON,CPC,19964
+35088,Prescott—Russell—Cumberland,ON,NDP,6651
+35088,Prescott—Russell—Cumberland,ON,BQ,0
+35088,Prescott—Russell—Cumberland,ON,GPC,1255
+35088,Prescott—Russell—Cumberland,ON,PPC,3958
+35088,Prescott—Russell—Cumberland,ON,OTH,690
+35089,Richmond Hill South,ON,LPC,23683
+35089,Richmond Hill South,ON,CPC,19190
+35089,Richmond Hill South,ON,NDP,4334
+35089,Richmond Hill South,ON,BQ,0
+35089,Richmond Hill South,ON,GPC,0
+35089,Richmond Hill South,ON,PPC,1462
+35089,Richmond Hill South,ON,OTH,847
+35090,Sarnia—Lambton—Bkejwanong,ON,LPC,13421
+35090,Sarnia—Lambton—Bkejwanong,ON,CPC,32196
+35090,Sarnia—Lambton—Bkejwanong,ON,NDP,14534
+35090,Sarnia—Lambton—Bkejwanong,ON,BQ,0
+35090,Sarnia—Lambton—Bkejwanong,ON,GPC,1031
+35090,Sarnia—Lambton—Bkejwanong,ON,PPC,7615
+35090,Sarnia—Lambton—Bkejwanong,ON,OTH,435
+35091,Sault Ste. Marie—Algoma,ON,LPC,18745
+35091,Sault Ste. Marie—Algoma,ON,CPC,20617
+35091,Sault Ste. Marie—Algoma,ON,NDP,14999
+35091,Sault Ste. Marie—Algoma,ON,BQ,0
+35091,Sault Ste. Marie—Algoma,ON,GPC,365
+35091,Sault Ste. Marie—Algoma,ON,PPC,3037
+35091,Sault Ste. Marie—Algoma,ON,OTH,160
+35092,Scarborough—Agincourt,ON,LPC,24212
+35092,Scarborough—Agincourt,ON,CPC,12558
+35092,Scarborough—Agincourt,ON,NDP,4340
+35092,Scarborough—Agincourt,ON,BQ,0
+35092,Scarborough—Agincourt,ON,GPC,742
+35092,Scarborough—Agincourt,ON,PPC,1203
+35092,Scarborough—Agincourt,ON,OTH,0
+35093,Scarborough Centre—Don Valley East,ON,LPC,23381
+35093,Scarborough Centre—Don Valley East,ON,CPC,10513
+35093,Scarborough Centre—Don Valley East,ON,NDP,5707
+35093,Scarborough Centre—Don Valley East,ON,BQ,0
+35093,Scarborough Centre—Don Valley East,ON,GPC,0
+35093,Scarborough Centre—Don Valley East,ON,PPC,1768
+35093,Scarborough Centre—Don Valley East,ON,OTH,149
+35094,Scarborough—Guildwood—Rouge Park,ON,LPC,30753
+35094,Scarborough—Guildwood—Rouge Park,ON,CPC,11074
+35094,Scarborough—Guildwood—Rouge Park,ON,NDP,6713
+35094,Scarborough—Guildwood—Rouge Park,ON,BQ,0
+35094,Scarborough—Guildwood—Rouge Park,ON,GPC,0
+35094,Scarborough—Guildwood—Rouge Park,ON,PPC,1511
+35094,Scarborough—Guildwood—Rouge Park,ON,OTH,131
+35095,Scarborough North,ON,LPC,26796
+35095,Scarborough North,ON,CPC,7238
+35095,Scarborough North,ON,NDP,4636
+35095,Scarborough North,ON,BQ,0
+35095,Scarborough North,ON,GPC,0
+35095,Scarborough North,ON,PPC,973
+35095,Scarborough North,ON,OTH,361
+35096,Scarborough Southwest,ON,LPC,27464
+35096,Scarborough Southwest,ON,CPC,9758
+35096,Scarborough Southwest,ON,NDP,7575
+35096,Scarborough Southwest,ON,BQ,0
+35096,Scarborough Southwest,ON,GPC,1068
+35096,Scarborough Southwest,ON,PPC,1367
+35096,Scarborough Southwest,ON,OTH,155
+35097,Scarborough—Woburn,ON,LPC,23442
+35097,Scarborough—Woburn,ON,CPC,8750
+35097,Scarborough—Woburn,ON,NDP,5106
+35097,Scarborough—Woburn,ON,BQ,0
+35097,Scarborough—Woburn,ON,GPC,0
+35097,Scarborough—Woburn,ON,PPC,1194
+35097,Scarborough—Woburn,ON,OTH,314
+35098,Simcoe—Grey,ON,LPC,15822
+35098,Simcoe—Grey,ON,CPC,26910
+35098,Simcoe—Grey,ON,NDP,7476
+35098,Simcoe—Grey,ON,BQ,0
+35098,Simcoe—Grey,ON,GPC,2356
+35098,Simcoe—Grey,ON,PPC,3938
+35098,Simcoe—Grey,ON,OTH,242
+35099,Simcoe North,ON,LPC,17995
+35099,Simcoe North,ON,CPC,24617
+35099,Simcoe North,ON,NDP,9315
+35099,Simcoe North,ON,BQ,0
+35099,Simcoe North,ON,GPC,1780
+35099,Simcoe North,ON,PPC,4465
+35099,Simcoe North,ON,OTH,192
+35100,Spadina—Harbourfront,ON,LPC,13753
+35100,Spadina—Harbourfront,ON,CPC,7806
+35100,Spadina—Harbourfront,ON,NDP,12172
+35100,Spadina—Harbourfront,ON,BQ,0
+35100,Spadina—Harbourfront,ON,GPC,1157
+35100,Spadina—Harbourfront,ON,PPC,1085
+35100,Spadina—Harbourfront,ON,OTH,0
+35101,St. Catharines,ON,LPC,23125
+35101,St. Catharines,ON,CPC,19768
+35101,St. Catharines,ON,NDP,13014
+35101,St. Catharines,ON,BQ,0
+35101,St. Catharines,ON,GPC,1140
+35101,St. Catharines,ON,PPC,4024
+35101,St. Catharines,ON,OTH,0
+35102,Stormont—Dundas—Glengarry,ON,LPC,14419
+35102,Stormont—Dundas—Glengarry,ON,CPC,31701
+35102,Stormont—Dundas—Glengarry,ON,NDP,6361
+35102,Stormont—Dundas—Glengarry,ON,BQ,0
+35102,Stormont—Dundas—Glengarry,ON,GPC,1351
+35102,Stormont—Dundas—Glengarry,ON,PPC,4475
+35102,Stormont—Dundas—Glengarry,ON,OTH,49
+35103,Sudbury,ON,LPC,19385
+35103,Sudbury,ON,CPC,15414
+35103,Sudbury,ON,NDP,16015
+35103,Sudbury,ON,BQ,0
+35103,Sudbury,ON,GPC,1099
+35103,Sudbury,ON,PPC,3389
+35103,Sudbury,ON,OTH,109
+35104,Sudbury East—Manitoulin—Nickel Belt,ON,LPC,16416
+35104,Sudbury East—Manitoulin—Nickel Belt,ON,CPC,13809
+35104,Sudbury East—Manitoulin—Nickel Belt,ON,NDP,15570
+35104,Sudbury East—Manitoulin—Nickel Belt,ON,BQ,0
+35104,Sudbury East—Manitoulin—Nickel Belt,ON,GPC,887
+35104,Sudbury East—Manitoulin—Nickel Belt,ON,PPC,4570
+35104,Sudbury East—Manitoulin—Nickel Belt,ON,OTH,73
+35105,Taiaiako’n—Parkdale—High Park,ON,LPC,24400
+35105,Taiaiako’n—Parkdale—High Park,ON,CPC,7603
+35105,Taiaiako’n—Parkdale—High Park,ON,NDP,21893
+35105,Taiaiako’n—Parkdale—High Park,ON,BQ,0
+35105,Taiaiako’n—Parkdale—High Park,ON,GPC,1077
+35105,Taiaiako’n—Parkdale—High Park,ON,PPC,1825
+35105,Taiaiako’n—Parkdale—High Park,ON,OTH,220
+35106,Thornhill,ON,LPC,18876
+35106,Thornhill,ON,CPC,27071
+35106,Thornhill,ON,NDP,3126
+35106,Thornhill,ON,BQ,0
+35106,Thornhill,ON,GPC,861
+35106,Thornhill,ON,PPC,2408
+35106,Thornhill,ON,OTH,0
+35107,Thunder Bay—Rainy River,ON,LPC,13655
+35107,Thunder Bay—Rainy River,ON,CPC,11671
+35107,Thunder Bay—Rainy River,ON,NDP,11342
+35107,Thunder Bay—Rainy River,ON,BQ,0
+35107,Thunder Bay—Rainy River,ON,GPC,571
+35107,Thunder Bay—Rainy River,ON,PPC,2621
+35107,Thunder Bay—Rainy River,ON,OTH,0
+35108,Thunder Bay—Superior North,ON,LPC,17048
+35108,Thunder Bay—Superior North,ON,CPC,10108
+35108,Thunder Bay—Superior North,ON,NDP,11693
+35108,Thunder Bay—Superior North,ON,BQ,0
+35108,Thunder Bay—Superior North,ON,GPC,747
+35108,Thunder Bay—Superior North,ON,PPC,2487
+35108,Thunder Bay—Superior North,ON,OTH,111
+35109,Toronto Centre,ON,LPC,23683
+35109,Toronto Centre,ON,CPC,6143
+35109,Toronto Centre,ON,NDP,12474
+35109,Toronto Centre,ON,BQ,0
+35109,Toronto Centre,ON,GPC,3826
+35109,Toronto Centre,ON,PPC,1116
+35109,Toronto Centre,ON,OTH,281
+35110,Toronto—Danforth,ON,LPC,25216
+35110,Toronto—Danforth,ON,CPC,6548
+35110,Toronto—Danforth,ON,NDP,17556
+35110,Toronto—Danforth,ON,BQ,0
+35110,Toronto—Danforth,ON,GPC,1023
+35110,Toronto—Danforth,ON,PPC,1282
+35110,Toronto—Danforth,ON,OTH,521
+35111,Toronto—St. Paul's,ON,LPC,30023
+35111,Toronto—St. Paul's,ON,CPC,16076
+35111,Toronto—St. Paul's,ON,NDP,9638
+35111,Toronto—St. Paul's,ON,BQ,0
+35111,Toronto—St. Paul's,ON,GPC,3373
+35111,Toronto—St. Paul's,ON,PPC,1513
+35111,Toronto—St. Paul's,ON,OTH,18
+35112,University—Rosedale,ON,LPC,24391
+35112,University—Rosedale,ON,CPC,9415
+35112,University—Rosedale,ON,NDP,14731
+35112,University—Rosedale,ON,BQ,0
+35112,University—Rosedale,ON,GPC,2332
+35112,University—Rosedale,ON,PPC,1357
+35112,University—Rosedale,ON,OTH,248
+35113,Vaughan—Woodbridge,ON,LPC,23423
+35113,Vaughan—Woodbridge,ON,CPC,20438
+35113,Vaughan—Woodbridge,ON,NDP,3515
+35113,Vaughan—Woodbridge,ON,BQ,0
+35113,Vaughan—Woodbridge,ON,GPC,488
+35113,Vaughan—Woodbridge,ON,PPC,2735
+35113,Vaughan—Woodbridge,ON,OTH,159
+35114,Waterloo,ON,LPC,25816
+35114,Waterloo,ON,CPC,15575
+35114,Waterloo,ON,NDP,10851
+35114,Waterloo,ON,BQ,0
+35114,Waterloo,ON,GPC,1936
+35114,Waterloo,ON,PPC,2583
+35114,Waterloo,ON,OTH,0
+35115,Wellington—Halton Hills North,ON,LPC,16949
+35115,Wellington—Halton Hills North,ON,CPC,26208
+35115,Wellington—Halton Hills North,ON,NDP,6698
+35115,Wellington—Halton Hills North,ON,BQ,0
+35115,Wellington—Halton Hills North,ON,GPC,2635
+35115,Wellington—Halton Hills North,ON,PPC,3467
+35115,Wellington—Halton Hills North,ON,OTH,68
+35116,Whitby,ON,LPC,23284
+35116,Whitby,ON,CPC,17804
+35116,Whitby,ON,NDP,7443
+35116,Whitby,ON,BQ,0
+35116,Whitby,ON,GPC,833
+35116,Whitby,ON,PPC,2273
+35116,Whitby,ON,OTH,0
+35117,Willowdale,ON,LPC,21043
+35117,Willowdale,ON,CPC,13916
+35117,Willowdale,ON,NDP,4231
+35117,Willowdale,ON,BQ,0
+35117,Willowdale,ON,GPC,812
+35117,Willowdale,ON,PPC,1102
+35117,Willowdale,ON,OTH,0
+35118,Windsor—Tecumseh—Lakeshore,ON,LPC,19019
+35118,Windsor—Tecumseh—Lakeshore,ON,CPC,16650
+35118,Windsor—Tecumseh—Lakeshore,ON,NDP,18660
+35118,Windsor—Tecumseh—Lakeshore,ON,BQ,0
+35118,Windsor—Tecumseh—Lakeshore,ON,GPC,744
+35118,Windsor—Tecumseh—Lakeshore,ON,PPC,6339
+35118,Windsor—Tecumseh—Lakeshore,ON,OTH,181
+35119,Windsor West,ON,LPC,13524
+35119,Windsor West,ON,CPC,9415
+35119,Windsor West,ON,NDP,21541
+35119,Windsor West,ON,BQ,0
+35119,Windsor West,ON,GPC,0
+35119,Windsor West,ON,PPC,4060
+35119,Windsor West,ON,OTH,153
+35120,York Centre,ON,LPC,17430
+35120,York Centre,ON,CPC,13949
+35120,York Centre,ON,NDP,3753
+35120,York Centre,ON,BQ,0
+35120,York Centre,ON,GPC,0
+35120,York Centre,ON,PPC,1726
+35120,York Centre,ON,OTH,0
+35121,York—Durham,ON,LPC,16701
+35121,York—Durham,ON,CPC,30324
+35121,York—Durham,ON,NDP,7364
+35121,York—Durham,ON,BQ,0
+35121,York—Durham,ON,GPC,325
+35121,York—Durham,ON,PPC,3731
+35121,York—Durham,ON,OTH,150
+35122,York South—Weston—Etobicoke,ON,LPC,21364
+35122,York South—Weston—Etobicoke,ON,CPC,8640
+35122,York South—Weston—Etobicoke,ON,NDP,5800
+35122,York South—Weston—Etobicoke,ON,BQ,0
+35122,York South—Weston—Etobicoke,ON,GPC,734
+35122,York South—Weston—Etobicoke,ON,PPC,1897
+35122,York South—Weston—Etobicoke,ON,OTH,3
+46001,Brandon—Souris,MB,LPC,4759
+46001,Brandon—Souris,MB,CPC,23659
+46001,Brandon—Souris,MB,NDP,8126
+46001,Brandon—Souris,MB,BQ,0
+46001,Brandon—Souris,MB,GPC,9
+46001,Brandon—Souris,MB,PPC,3277
+46001,Brandon—Souris,MB,OTH,19
+46002,Churchill—Keewatinook Aski,MB,LPC,4512
+46002,Churchill—Keewatinook Aski,MB,CPC,4331
+46002,Churchill—Keewatinook Aski,MB,NDP,7628
+46002,Churchill—Keewatinook Aski,MB,BQ,0
+46002,Churchill—Keewatinook Aski,MB,GPC,552
+46002,Churchill—Keewatinook Aski,MB,PPC,899
+46002,Churchill—Keewatinook Aski,MB,OTH,0
+46003,Elmwood—Transcona,MB,LPC,6057
+46003,Elmwood—Transcona,MB,CPC,11585
+46003,Elmwood—Transcona,MB,NDP,20001
+46003,Elmwood—Transcona,MB,BQ,0
+46003,Elmwood—Transcona,MB,GPC,647
+46003,Elmwood—Transcona,MB,PPC,2423
+46003,Elmwood—Transcona,MB,OTH,5
+46004,Kildonan—St. Paul,MB,LPC,13782
+46004,Kildonan—St. Paul,MB,CPC,20962
+46004,Kildonan—St. Paul,MB,NDP,11755
+46004,Kildonan—St. Paul,MB,BQ,0
+46004,Kildonan—St. Paul,MB,GPC,152
+46004,Kildonan—St. Paul,MB,PPC,2677
+46004,Kildonan—St. Paul,MB,OTH,58
+46005,Portage—Lisgar,MB,LPC,4720
+46005,Portage—Lisgar,MB,CPC,22445
+46005,Portage—Lisgar,MB,NDP,5778
+46005,Portage—Lisgar,MB,BQ,0
+46005,Portage—Lisgar,MB,GPC,0
+46005,Portage—Lisgar,MB,PPC,9418
+46005,Portage—Lisgar,MB,OTH,681
+46006,Provencher,MB,LPC,7413
+46006,Provencher,MB,CPC,21713
+46006,Provencher,MB,NDP,5487
+46006,Provencher,MB,BQ,0
+46006,Provencher,MB,GPC,1150
+46006,Provencher,MB,PPC,7856
+46006,Provencher,MB,OTH,1302
+46007,Riding Mountain,MB,LPC,4987
+46007,Riding Mountain,MB,CPC,23165
+46007,Riding Mountain,MB,NDP,5680
+46007,Riding Mountain,MB,BQ,0
+46007,Riding Mountain,MB,GPC,826
+46007,Riding Mountain,MB,PPC,4128
+46007,Riding Mountain,MB,OTH,351
+46008,St. Boniface—St. Vital,MB,LPC,21012
+46008,St. Boniface—St. Vital,MB,CPC,13541
+46008,St. Boniface—St. Vital,MB,NDP,10131
+46008,St. Boniface—St. Vital,MB,BQ,0
+46008,St. Boniface—St. Vital,MB,GPC,720
+46008,St. Boniface—St. Vital,MB,PPC,2067
+46008,St. Boniface—St. Vital,MB,OTH,391
+46009,Selkirk—Interlake—Eastman,MB,LPC,6493
+46009,Selkirk—Interlake—Eastman,MB,CPC,27931
+46009,Selkirk—Interlake—Eastman,MB,NDP,9524
+46009,Selkirk—Interlake—Eastman,MB,BQ,0
+46009,Selkirk—Interlake—Eastman,MB,GPC,1320
+46009,Selkirk—Interlake—Eastman,MB,PPC,3758
+46009,Selkirk—Interlake—Eastman,MB,OTH,0
+46010,Winnipeg Centre,MB,LPC,9170
+46010,Winnipeg Centre,MB,CPC,4055
+46010,Winnipeg Centre,MB,NDP,15726
+46010,Winnipeg Centre,MB,BQ,0
+46010,Winnipeg Centre,MB,GPC,756
+46010,Winnipeg Centre,MB,PPC,1356
+46010,Winnipeg Centre,MB,OTH,608
+46011,Winnipeg North,MB,LPC,16040
+46011,Winnipeg North,MB,CPC,4066
+46011,Winnipeg North,MB,NDP,8365
+46011,Winnipeg North,MB,BQ,0
+46011,Winnipeg North,MB,GPC,370
+46011,Winnipeg North,MB,PPC,1219
+46011,Winnipeg North,MB,OTH,87
+46012,Winnipeg South,MB,LPC,19251
+46012,Winnipeg South,MB,CPC,13074
+46012,Winnipeg South,MB,NDP,5733
+46012,Winnipeg South,MB,BQ,0
+46012,Winnipeg South,MB,GPC,590
+46012,Winnipeg South,MB,PPC,1336
+46012,Winnipeg South,MB,OTH,0
+46013,Winnipeg South Centre,MB,LPC,22184
+46013,Winnipeg South Centre,MB,CPC,13773
+46013,Winnipeg South Centre,MB,NDP,10124
+46013,Winnipeg South Centre,MB,BQ,0
+46013,Winnipeg South Centre,MB,GPC,1300
+46013,Winnipeg South Centre,MB,PPC,1378
+46013,Winnipeg South Centre,MB,OTH,226
+46014,Winnipeg West,MB,LPC,19824
+46014,Winnipeg West,MB,CPC,20382
+46014,Winnipeg West,MB,NDP,7533
+46014,Winnipeg West,MB,BQ,0
+46014,Winnipeg West,MB,GPC,1042
+46014,Winnipeg West,MB,PPC,1727
+46014,Winnipeg West,MB,OTH,8
+47001,Battlefords—Lloydminster—Meadow Lake,SK,LPC,2506
+47001,Battlefords—Lloydminster—Meadow Lake,SK,CPC,23018
+47001,Battlefords—Lloydminster—Meadow Lake,SK,NDP,4418
+47001,Battlefords—Lloydminster—Meadow Lake,SK,BQ,0
+47001,Battlefords—Lloydminster—Meadow Lake,SK,GPC,266
+47001,Battlefords—Lloydminster—Meadow Lake,SK,PPC,2050
+47001,Battlefords—Lloydminster—Meadow Lake,SK,OTH,1965
+47002,Carlton Trail—Eagle Creek,SK,LPC,2289
+47002,Carlton Trail—Eagle Creek,SK,CPC,28450
+47002,Carlton Trail—Eagle Creek,SK,NDP,5872
+47002,Carlton Trail—Eagle Creek,SK,BQ,0
+47002,Carlton Trail—Eagle Creek,SK,GPC,389
+47002,Carlton Trail—Eagle Creek,SK,PPC,3876
+47002,Carlton Trail—Eagle Creek,SK,OTH,960
+47003,Desnethé—Missinippi—Churchill River,SK,LPC,3811
+47003,Desnethé—Missinippi—Churchill River,SK,CPC,1938
+47003,Desnethé—Missinippi—Churchill River,SK,NDP,1975
+47003,Desnethé—Missinippi—Churchill River,SK,BQ,0
+47003,Desnethé—Missinippi—Churchill River,SK,GPC,96
+47003,Desnethé—Missinippi—Churchill River,SK,PPC,257
+47003,Desnethé—Missinippi—Churchill River,SK,OTH,146
+47004,Moose Jaw—Lake Centre—Lanigan,SK,LPC,2569
+47004,Moose Jaw—Lake Centre—Lanigan,SK,CPC,25975
+47004,Moose Jaw—Lake Centre—Lanigan,SK,NDP,8060
+47004,Moose Jaw—Lake Centre—Lanigan,SK,BQ,0
+47004,Moose Jaw—Lake Centre—Lanigan,SK,GPC,439
+47004,Moose Jaw—Lake Centre—Lanigan,SK,PPC,4820
+47004,Moose Jaw—Lake Centre—Lanigan,SK,OTH,726
+47005,Prince Albert,SK,LPC,4284
+47005,Prince Albert,SK,CPC,23253
+47005,Prince Albert,SK,NDP,5448
+47005,Prince Albert,SK,BQ,0
+47005,Prince Albert,SK,GPC,398
+47005,Prince Albert,SK,PPC,2496
+47005,Prince Albert,SK,OTH,403
+47006,Regina—Lewvan,SK,LPC,5729
+47006,Regina—Lewvan,SK,CPC,18497
+47006,Regina—Lewvan,SK,NDP,13950
+47006,Regina—Lewvan,SK,BQ,0
+47006,Regina—Lewvan,SK,GPC,498
+47006,Regina—Lewvan,SK,PPC,1401
+47006,Regina—Lewvan,SK,OTH,0
+47007,Regina—Qu'Appelle,SK,LPC,3908
+47007,Regina—Qu'Appelle,SK,CPC,23021
+47007,Regina—Qu'Appelle,SK,NDP,8658
+47007,Regina—Qu'Appelle,SK,BQ,0
+47007,Regina—Qu'Appelle,SK,GPC,723
+47007,Regina—Qu'Appelle,SK,PPC,1883
+47007,Regina—Qu'Appelle,SK,OTH,0
+47008,Regina—Wascana,SK,LPC,10388
+47008,Regina—Wascana,SK,CPC,19258
+47008,Regina—Wascana,SK,NDP,6974
+47008,Regina—Wascana,SK,BQ,0
+47008,Regina—Wascana,SK,GPC,622
+47008,Regina—Wascana,SK,PPC,1352
+47008,Regina—Wascana,SK,OTH,0
+47009,Saskatoon South,SK,LPC,6253
+47009,Saskatoon South,SK,CPC,21423
+47009,Saskatoon South,SK,NDP,13322
+47009,Saskatoon South,SK,BQ,0
+47009,Saskatoon South,SK,GPC,537
+47009,Saskatoon South,SK,PPC,1965
+47009,Saskatoon South,SK,OTH,0
+47010,Saskatoon—University,SK,LPC,4632
+47010,Saskatoon—University,SK,CPC,20447
+47010,Saskatoon—University,SK,NDP,15102
+47010,Saskatoon—University,SK,BQ,0
+47010,Saskatoon—University,SK,GPC,406
+47010,Saskatoon—University,SK,PPC,1785
+47010,Saskatoon—University,SK,OTH,295
+47011,Saskatoon West,SK,LPC,2779
+47011,Saskatoon West,SK,CPC,15386
+47011,Saskatoon West,SK,NDP,13329
+47011,Saskatoon West,SK,BQ,0
+47011,Saskatoon West,SK,GPC,357
+47011,Saskatoon West,SK,PPC,2065
+47011,Saskatoon West,SK,OTH,0
+47012,Souris—Moose Mountain,SK,LPC,1763
+47012,Souris—Moose Mountain,SK,CPC,31897
+47012,Souris—Moose Mountain,SK,NDP,3377
+47012,Souris—Moose Mountain,SK,BQ,0
+47012,Souris—Moose Mountain,SK,GPC,24
+47012,Souris—Moose Mountain,SK,PPC,3848
+47012,Souris—Moose Mountain,SK,OTH,1053
+47013,Swift Current—Grasslands—Kindersley,SK,LPC,1563
+47013,Swift Current—Grasslands—Kindersley,SK,CPC,27528
+47013,Swift Current—Grasslands—Kindersley,SK,NDP,3903
+47013,Swift Current—Grasslands—Kindersley,SK,BQ,0
+47013,Swift Current—Grasslands—Kindersley,SK,GPC,320
+47013,Swift Current—Grasslands—Kindersley,SK,PPC,2879
+47013,Swift Current—Grasslands—Kindersley,SK,OTH,1800
+47014,Yorkton—Melville,SK,LPC,2257
+47014,Yorkton—Melville,SK,CPC,24608
+47014,Yorkton—Melville,SK,NDP,4332
+47014,Yorkton—Melville,SK,BQ,0
+47014,Yorkton—Melville,SK,GPC,623
+47014,Yorkton—Melville,SK,PPC,3293
+47014,Yorkton—Melville,SK,OTH,658
+48001,Airdrie—Cochrane,AB,LPC,5739
+48001,Airdrie—Cochrane,AB,CPC,33821
+48001,Airdrie—Cochrane,AB,NDP,8427
+48001,Airdrie—Cochrane,AB,BQ,0
+48001,Airdrie—Cochrane,AB,GPC,712
+48001,Airdrie—Cochrane,AB,PPC,4649
+48001,Airdrie—Cochrane,AB,OTH,3115
+48002,Battle River—Crowfoot,AB,LPC,2536
+48002,Battle River—Crowfoot,AB,CPC,42531
+48002,Battle River—Crowfoot,AB,NDP,5782
+48002,Battle River—Crowfoot,AB,BQ,0
+48002,Battle River—Crowfoot,AB,GPC,545
+48002,Battle River—Crowfoot,AB,PPC,5556
+48002,Battle River—Crowfoot,AB,OTH,2631
+48003,Bow River,AB,LPC,3763
+48003,Bow River,AB,CPC,33292
+48003,Bow River,AB,NDP,4484
+48003,Bow River,AB,BQ,0
+48003,Bow River,AB,GPC,2
+48003,Bow River,AB,PPC,4712
+48003,Bow River,AB,OTH,1604
+48004,Calgary Centre,AB,LPC,16391
+48004,Calgary Centre,AB,CPC,27761
+48004,Calgary Centre,AB,NDP,8955
+48004,Calgary Centre,AB,BQ,0
+48004,Calgary Centre,AB,GPC,887
+48004,Calgary Centre,AB,PPC,0
+48004,Calgary Centre,AB,OTH,527
+48005,Calgary Confederation,AB,LPC,16680
+48005,Calgary Confederation,AB,CPC,27326
+48005,Calgary Confederation,AB,NDP,10596
+48005,Calgary Confederation,AB,BQ,0
+48005,Calgary Confederation,AB,GPC,2202
+48005,Calgary Confederation,AB,PPC,2777
+48005,Calgary Confederation,AB,OTH,228
+48006,Calgary Crowfoot,AB,LPC,12174
+48006,Calgary Crowfoot,AB,CPC,30836
+48006,Calgary Crowfoot,AB,NDP,9081
+48006,Calgary Crowfoot,AB,BQ,0
+48006,Calgary Crowfoot,AB,GPC,941
+48006,Calgary Crowfoot,AB,PPC,2601
+48006,Calgary Crowfoot,AB,OTH,491
+48007,Calgary East,AB,LPC,8474
+48007,Calgary East,AB,CPC,24157
+48007,Calgary East,AB,NDP,8264
+48007,Calgary East,AB,BQ,0
+48007,Calgary East,AB,GPC,967
+48007,Calgary East,AB,PPC,3275
+48007,Calgary East,AB,OTH,566
+48008,Calgary Heritage,AB,LPC,9531
+48008,Calgary Heritage,AB,CPC,34334
+48008,Calgary Heritage,AB,NDP,10172
+48008,Calgary Heritage,AB,BQ,0
+48008,Calgary Heritage,AB,GPC,838
+48008,Calgary Heritage,AB,PPC,3009
+48008,Calgary Heritage,AB,OTH,983
+48009,Calgary McKnight,AB,LPC,16282
+48009,Calgary McKnight,AB,CPC,12733
+48009,Calgary McKnight,AB,NDP,6020
+48009,Calgary McKnight,AB,BQ,0
+48009,Calgary McKnight,AB,GPC,422
+48009,Calgary McKnight,AB,PPC,1465
+48009,Calgary McKnight,AB,OTH,285
+48010,Calgary Midnapore,AB,LPC,7376
+48010,Calgary Midnapore,AB,CPC,35683
+48010,Calgary Midnapore,AB,NDP,10974
+48010,Calgary Midnapore,AB,BQ,0
+48010,Calgary Midnapore,AB,GPC,796
+48010,Calgary Midnapore,AB,PPC,3603
+48010,Calgary Midnapore,AB,OTH,773
+48011,Calgary Nose Hill,AB,LPC,10966
+48011,Calgary Nose Hill,AB,CPC,29989
+48011,Calgary Nose Hill,AB,NDP,9170
+48011,Calgary Nose Hill,AB,BQ,0
+48011,Calgary Nose Hill,AB,GPC,877
+48011,Calgary Nose Hill,AB,PPC,2600
+48011,Calgary Nose Hill,AB,OTH,606
+48012,Calgary Shepard,AB,LPC,7039
+48012,Calgary Shepard,AB,CPC,30941
+48012,Calgary Shepard,AB,NDP,8105
+48012,Calgary Shepard,AB,BQ,0
+48012,Calgary Shepard,AB,GPC,857
+48012,Calgary Shepard,AB,PPC,2897
+48012,Calgary Shepard,AB,OTH,716
+48013,Calgary Signal Hill,AB,LPC,11361
+48013,Calgary Signal Hill,AB,CPC,35055
+48013,Calgary Signal Hill,AB,NDP,8284
+48013,Calgary Signal Hill,AB,BQ,0
+48013,Calgary Signal Hill,AB,GPC,997
+48013,Calgary Signal Hill,AB,PPC,2368
+48013,Calgary Signal Hill,AB,OTH,546
+48014,Calgary Skyview,AB,LPC,11899
+48014,Calgary Skyview,AB,CPC,16151
+48014,Calgary Skyview,AB,NDP,5938
+48014,Calgary Skyview,AB,BQ,0
+48014,Calgary Skyview,AB,GPC,328
+48014,Calgary Skyview,AB,PPC,1344
+48014,Calgary Skyview,AB,OTH,262
+48015,Edmonton Centre,AB,LPC,15456
+48015,Edmonton Centre,AB,CPC,16146
+48015,Edmonton Centre,AB,NDP,15061
+48015,Edmonton Centre,AB,BQ,0
+48015,Edmonton Centre,AB,GPC,56
+48015,Edmonton Centre,AB,PPC,2405
+48015,Edmonton Centre,AB,OTH,401
+48016,Edmonton Gateway,AB,LPC,10655
+48016,Edmonton Gateway,AB,CPC,18077
+48016,Edmonton Gateway,AB,NDP,10614
+48016,Edmonton Gateway,AB,BQ,0
+48016,Edmonton Gateway,AB,GPC,90
+48016,Edmonton Gateway,AB,PPC,2375
+48016,Edmonton Gateway,AB,OTH,115
+48017,Edmonton Griesbach,AB,LPC,6552
+48017,Edmonton Griesbach,AB,CPC,15681
+48017,Edmonton Griesbach,AB,NDP,17429
+48017,Edmonton Griesbach,AB,BQ,0
+48017,Edmonton Griesbach,AB,GPC,489
+48017,Edmonton Griesbach,AB,PPC,2567
+48017,Edmonton Griesbach,AB,OTH,466
+48018,Edmonton Manning,AB,LPC,8456
+48018,Edmonton Manning,AB,CPC,16903
+48018,Edmonton Manning,AB,NDP,12749
+48018,Edmonton Manning,AB,BQ,0
+48018,Edmonton Manning,AB,GPC,0
+48018,Edmonton Manning,AB,PPC,2883
+48018,Edmonton Manning,AB,OTH,115
+48019,Edmonton Northwest,AB,LPC,10112
+48019,Edmonton Northwest,AB,CPC,19054
+48019,Edmonton Northwest,AB,NDP,12215
+48019,Edmonton Northwest,AB,BQ,0
+48019,Edmonton Northwest,AB,GPC,13
+48019,Edmonton Northwest,AB,PPC,2761
+48019,Edmonton Northwest,AB,OTH,57
+48020,Edmonton Riverbend,AB,LPC,12149
+48020,Edmonton Riverbend,AB,CPC,22145
+48020,Edmonton Riverbend,AB,NDP,11907
+48020,Edmonton Riverbend,AB,BQ,0
+48020,Edmonton Riverbend,AB,GPC,559
+48020,Edmonton Riverbend,AB,PPC,1957
+48020,Edmonton Riverbend,AB,OTH,19
+48021,Edmonton Southeast,AB,LPC,14068
+48021,Edmonton Southeast,AB,CPC,15597
+48021,Edmonton Southeast,AB,NDP,9237
+48021,Edmonton Southeast,AB,BQ,0
+48021,Edmonton Southeast,AB,GPC,0
+48021,Edmonton Southeast,AB,PPC,2352
+48021,Edmonton Southeast,AB,OTH,122
+48022,Edmonton Strathcona,AB,LPC,5068
+48022,Edmonton Strathcona,AB,CPC,15040
+48022,Edmonton Strathcona,AB,NDP,32556
+48022,Edmonton Strathcona,AB,BQ,0
+48022,Edmonton Strathcona,AB,GPC,701
+48022,Edmonton Strathcona,AB,PPC,2539
+48022,Edmonton Strathcona,AB,OTH,273
+48023,Edmonton West,AB,LPC,12088
+48023,Edmonton West,AB,CPC,22556
+48023,Edmonton West,AB,NDP,12123
+48023,Edmonton West,AB,BQ,0
+48023,Edmonton West,AB,GPC,25
+48023,Edmonton West,AB,PPC,2520
+48023,Edmonton West,AB,OTH,135
+48024,Foothills,AB,LPC,4246
+48024,Foothills,AB,CPC,41847
+48024,Foothills,AB,NDP,6968
+48024,Foothills,AB,BQ,0
+48024,Foothills,AB,GPC,808
+48024,Foothills,AB,PPC,5024
+48024,Foothills,AB,OTH,2264
+48025,Fort McMurray—Cold Lake,AB,LPC,3066
+48025,Fort McMurray—Cold Lake,AB,CPC,29394
+48025,Fort McMurray—Cold Lake,AB,NDP,4385
+48025,Fort McMurray—Cold Lake,AB,BQ,0
+48025,Fort McMurray—Cold Lake,AB,GPC,424
+48025,Fort McMurray—Cold Lake,AB,PPC,5506
+48025,Fort McMurray—Cold Lake,AB,OTH,570
+48026,Grande Prairie,AB,LPC,2164
+48026,Grande Prairie,AB,CPC,35401
+48026,Grande Prairie,AB,NDP,6085
+48026,Grande Prairie,AB,BQ,0
+48026,Grande Prairie,AB,GPC,0
+48026,Grande Prairie,AB,PPC,5238
+48026,Grande Prairie,AB,OTH,2447
+48027,Lakeland,AB,LPC,2604
+48027,Lakeland,AB,CPC,36405
+48027,Lakeland,AB,NDP,5511
+48027,Lakeland,AB,BQ,0
+48027,Lakeland,AB,GPC,463
+48027,Lakeland,AB,PPC,5802
+48027,Lakeland,AB,OTH,1671
+48028,Leduc—Wetaskiwin,AB,LPC,3896
+48028,Leduc—Wetaskiwin,AB,CPC,34770
+48028,Leduc—Wetaskiwin,AB,NDP,9658
+48028,Leduc—Wetaskiwin,AB,BQ,0
+48028,Leduc—Wetaskiwin,AB,GPC,9
+48028,Leduc—Wetaskiwin,AB,PPC,6147
+48028,Leduc—Wetaskiwin,AB,OTH,391
+48029,Lethbridge,AB,LPC,8928
+48029,Lethbridge,AB,CPC,32817
+48029,Lethbridge,AB,NDP,11386
+48029,Lethbridge,AB,BQ,0
+48029,Lethbridge,AB,GPC,0
+48029,Lethbridge,AB,PPC,4097
+48029,Lethbridge,AB,OTH,1745
+48030,Medicine Hat—Cardston—Warner,AB,LPC,3397
+48030,Medicine Hat—Cardston—Warner,AB,CPC,31629
+48030,Medicine Hat—Cardston—Warner,AB,NDP,6678
+48030,Medicine Hat—Cardston—Warner,AB,BQ,0
+48030,Medicine Hat—Cardston—Warner,AB,GPC,663
+48030,Medicine Hat—Cardston—Warner,AB,PPC,4478
+48030,Medicine Hat—Cardston—Warner,AB,OTH,1226
+48031,Parkland,AB,LPC,3795
+48031,Parkland,AB,CPC,38359
+48031,Parkland,AB,NDP,9901
+48031,Parkland,AB,BQ,0
+48031,Parkland,AB,GPC,0
+48031,Parkland,AB,PPC,6858
+48031,Parkland,AB,OTH,1888
+48032,Peace River—Westlock,AB,LPC,2664
+48032,Peace River—Westlock,AB,CPC,30446
+48032,Peace River—Westlock,AB,NDP,6396
+48032,Peace River—Westlock,AB,BQ,0
+48032,Peace River—Westlock,AB,GPC,364
+48032,Peace River—Westlock,AB,PPC,6089
+48032,Peace River—Westlock,AB,OTH,2635
+48033,Ponoka—Didsbury,AB,LPC,2862
+48033,Ponoka—Didsbury,AB,CPC,41740
+48033,Ponoka—Didsbury,AB,NDP,6735
+48033,Ponoka—Didsbury,AB,BQ,0
+48033,Ponoka—Didsbury,AB,GPC,0
+48033,Ponoka—Didsbury,AB,PPC,8213
+48033,Ponoka—Didsbury,AB,OTH,1946
+48034,Red Deer,AB,LPC,4401
+48034,Red Deer,AB,CPC,32606
+48034,Red Deer,AB,NDP,9352
+48034,Red Deer,AB,BQ,0
+48034,Red Deer,AB,GPC,0
+48034,Red Deer,AB,PPC,6084
+48034,Red Deer,AB,OTH,1445
+48035,Sherwood Park—Fort Saskatchewan,AB,LPC,8730
+48035,Sherwood Park—Fort Saskatchewan,AB,CPC,41092
+48035,Sherwood Park—Fort Saskatchewan,AB,NDP,14740
+48035,Sherwood Park—Fort Saskatchewan,AB,BQ,0
+48035,Sherwood Park—Fort Saskatchewan,AB,GPC,700
+48035,Sherwood Park—Fort Saskatchewan,AB,PPC,5004
+48035,Sherwood Park—Fort Saskatchewan,AB,OTH,1132
+48036,St. Albert—Sturgeon River,AB,LPC,7582
+48036,St. Albert—Sturgeon River,AB,CPC,37326
+48036,St. Albert—Sturgeon River,AB,NDP,15691
+48036,St. Albert—Sturgeon River,AB,BQ,0
+48036,St. Albert—Sturgeon River,AB,GPC,0
+48036,St. Albert—Sturgeon River,AB,PPC,5195
+48036,St. Albert—Sturgeon River,AB,OTH,821
+48037,Yellowhead,AB,LPC,6344
+48037,Yellowhead,AB,CPC,35998
+48037,Yellowhead,AB,NDP,8765
+48037,Yellowhead,AB,BQ,0
+48037,Yellowhead,AB,GPC,747
+48037,Yellowhead,AB,PPC,5529
+48037,Yellowhead,AB,OTH,2381
+59001,Abbotsford—South Langley,BC,LPC,12478
+59001,Abbotsford—South Langley,BC,CPC,21838
+59001,Abbotsford—South Langley,BC,NDP,8729
+59001,Abbotsford—South Langley,BC,BQ,0
+59001,Abbotsford—South Langley,BC,GPC,1504
+59001,Abbotsford—South Langley,BC,PPC,3354
+59001,Abbotsford—South Langley,BC,OTH,0
+59002,Burnaby Central,BC,LPC,12507
+59002,Burnaby Central,BC,CPC,8868
+59002,Burnaby Central,BC,NDP,15921
+59002,Burnaby Central,BC,BQ,0
+59002,Burnaby Central,BC,GPC,1168
+59002,Burnaby Central,BC,PPC,1353
+59002,Burnaby Central,BC,OTH,210
+59003,Burnaby North—Seymour,BC,LPC,22673
+59003,Burnaby North—Seymour,BC,CPC,14732
+59003,Burnaby North—Seymour,BC,NDP,14706
+59003,Burnaby North—Seymour,BC,BQ,0
+59003,Burnaby North—Seymour,BC,GPC,1878
+59003,Burnaby North—Seymour,BC,PPC,1472
+59003,Burnaby North—Seymour,BC,OTH,0
+59004,Cariboo—Prince George,BC,LPC,9029
+59004,Cariboo—Prince George,BC,CPC,28407
+59004,Cariboo—Prince George,BC,NDP,11327
+59004,Cariboo—Prince George,BC,BQ,0
+59004,Cariboo—Prince George,BC,GPC,1934
+59004,Cariboo—Prince George,BC,PPC,4556
+59004,Cariboo—Prince George,BC,OTH,261
+59005,Chilliwack—Hope,BC,LPC,9463
+59005,Chilliwack—Hope,BC,CPC,25421
+59005,Chilliwack—Hope,BC,NDP,14603
+59005,Chilliwack—Hope,BC,BQ,0
+59005,Chilliwack—Hope,BC,GPC,1553
+59005,Chilliwack—Hope,BC,PPC,4230
+59005,Chilliwack—Hope,BC,OTH,0
+59006,Cloverdale—Langley City,BC,LPC,18711
+59006,Cloverdale—Langley City,BC,CPC,17284
+59006,Cloverdale—Langley City,BC,NDP,9549
+59006,Cloverdale—Langley City,BC,BQ,0
+59006,Cloverdale—Langley City,BC,GPC,0
+59006,Cloverdale—Langley City,BC,PPC,2307
+59006,Cloverdale—Langley City,BC,OTH,0
+59007,Columbia—Kootenay—Southern Rockies,BC,LPC,5648
+59007,Columbia—Kootenay—Southern Rockies,BC,CPC,27552
+59007,Columbia—Kootenay—Southern Rockies,BC,NDP,23143
+59007,Columbia—Kootenay—Southern Rockies,BC,BQ,0
+59007,Columbia—Kootenay—Southern Rockies,BC,GPC,2341
+59007,Columbia—Kootenay—Southern Rockies,BC,PPC,4480
+59007,Columbia—Kootenay—Southern Rockies,BC,OTH,0
+59008,Coquitlam—Port Coquitlam,BC,LPC,18178
+59008,Coquitlam—Port Coquitlam,BC,CPC,14437
+59008,Coquitlam—Port Coquitlam,BC,NDP,13228
+59008,Coquitlam—Port Coquitlam,BC,BQ,0
+59008,Coquitlam—Port Coquitlam,BC,GPC,0
+59008,Coquitlam—Port Coquitlam,BC,PPC,2093
+59008,Coquitlam—Port Coquitlam,BC,OTH,0
+59009,Courtenay—Alberni,BC,LPC,9222
+59009,Courtenay—Alberni,BC,CPC,21205
+59009,Courtenay—Alberni,BC,NDP,29045
+59009,Courtenay—Alberni,BC,BQ,0
+59009,Courtenay—Alberni,BC,GPC,4776
+59009,Courtenay—Alberni,BC,PPC,3384
+59009,Courtenay—Alberni,BC,OTH,108
+59010,Cowichan—Malahat—Langford,BC,LPC,10312
+59010,Cowichan—Malahat—Langford,BC,CPC,17855
+59010,Cowichan—Malahat—Langford,BC,NDP,26939
+59010,Cowichan—Malahat—Langford,BC,BQ,0
+59010,Cowichan—Malahat—Langford,BC,GPC,3915
+59010,Cowichan—Malahat—Langford,BC,PPC,3947
+59010,Cowichan—Malahat—Langford,BC,OTH,0
+59011,Delta,BC,LPC,23697
+59011,Delta,BC,CPC,18681
+59011,Delta,BC,NDP,10276
+59011,Delta,BC,BQ,0
+59011,Delta,BC,GPC,1244
+59011,Delta,BC,PPC,1381
+59011,Delta,BC,OTH,424
+59012,Esquimalt—Saanich—Sooke,BC,LPC,13314
+59012,Esquimalt—Saanich—Sooke,BC,CPC,12759
+59012,Esquimalt—Saanich—Sooke,BC,NDP,26306
+59012,Esquimalt—Saanich—Sooke,BC,BQ,0
+59012,Esquimalt—Saanich—Sooke,BC,GPC,5410
+59012,Esquimalt—Saanich—Sooke,BC,PPC,2828
+59012,Esquimalt—Saanich—Sooke,BC,OTH,234
+59013,Fleetwood—Port Kells,BC,LPC,19547
+59013,Fleetwood—Port Kells,BC,CPC,12140
+59013,Fleetwood—Port Kells,BC,NDP,8655
+59013,Fleetwood—Port Kells,BC,BQ,0
+59013,Fleetwood—Port Kells,BC,GPC,817
+59013,Fleetwood—Port Kells,BC,PPC,1232
+59013,Fleetwood—Port Kells,BC,OTH,166
+59014,Kamloops—Shuswap—Central Rockies,BC,LPC,9869
+59014,Kamloops—Shuswap—Central Rockies,BC,CPC,26749
+59014,Kamloops—Shuswap—Central Rockies,BC,NDP,14877
+59014,Kamloops—Shuswap—Central Rockies,BC,BQ,0
+59014,Kamloops—Shuswap—Central Rockies,BC,GPC,3025
+59014,Kamloops—Shuswap—Central Rockies,BC,PPC,4844
+59014,Kamloops—Shuswap—Central Rockies,BC,OTH,60
+59015,Kamloops—Thompson—Nicola,BC,LPC,9945
+59015,Kamloops—Thompson—Nicola,BC,CPC,24448
+59015,Kamloops—Thompson—Nicola,BC,NDP,16049
+59015,Kamloops—Thompson—Nicola,BC,BQ,0
+59015,Kamloops—Thompson—Nicola,BC,GPC,2113
+59015,Kamloops—Thompson—Nicola,BC,PPC,3354
+59015,Kamloops—Thompson—Nicola,BC,OTH,292
+59016,Kelowna,BC,LPC,13277
+59016,Kelowna,BC,CPC,21407
+59016,Kelowna,BC,NDP,10702
+59016,Kelowna,BC,BQ,0
+59016,Kelowna,BC,GPC,1525
+59016,Kelowna,BC,PPC,3686
+59016,Kelowna,BC,OTH,0
+59017,Langley Township—Fraser Heights,BC,LPC,15639
+59017,Langley Township—Fraser Heights,BC,CPC,23223
+59017,Langley Township—Fraser Heights,BC,NDP,10326
+59017,Langley Township—Fraser Heights,BC,BQ,0
+59017,Langley Township—Fraser Heights,BC,GPC,1278
+59017,Langley Township—Fraser Heights,BC,PPC,2382
+59017,Langley Township—Fraser Heights,BC,OTH,27
+59018,Mission—Matsqui—Abbotsford,BC,LPC,12493
+59018,Mission—Matsqui—Abbotsford,BC,CPC,24310
+59018,Mission—Matsqui—Abbotsford,BC,NDP,9279
+59018,Mission—Matsqui—Abbotsford,BC,BQ,0
+59018,Mission—Matsqui—Abbotsford,BC,GPC,1915
+59018,Mission—Matsqui—Abbotsford,BC,PPC,3594
+59018,Mission—Matsqui—Abbotsford,BC,OTH,0
+59019,Nanaimo—Ladysmith,BC,LPC,8214
+59019,Nanaimo—Ladysmith,BC,CPC,16566
+59019,Nanaimo—Ladysmith,BC,NDP,18307
+59019,Nanaimo—Ladysmith,BC,BQ,0
+59019,Nanaimo—Ladysmith,BC,GPC,16110
+59019,Nanaimo—Ladysmith,BC,PPC,3123
+59019,Nanaimo—Ladysmith,BC,OTH,0
+59020,New Westminster—Burnaby—Maillardville,BC,LPC,11141
+59020,New Westminster—Burnaby—Maillardville,BC,CPC,9990
+59020,New Westminster—Burnaby—Maillardville,BC,NDP,22808
+59020,New Westminster—Burnaby—Maillardville,BC,BQ,0
+59020,New Westminster—Burnaby—Maillardville,BC,GPC,1803
+59020,New Westminster—Burnaby—Maillardville,BC,PPC,1777
+59020,New Westminster—Burnaby—Maillardville,BC,OTH,13
+59021,North Island—Powell River,BC,LPC,9076
+59021,North Island—Powell River,BC,CPC,24707
+59021,North Island—Powell River,BC,NDP,26918
+59021,North Island—Powell River,BC,BQ,0
+59021,North Island—Powell River,BC,GPC,3999
+59021,North Island—Powell River,BC,PPC,3113
+59021,North Island—Powell River,BC,OTH,403
+59022,North Vancouver—Capilano,BC,LPC,24447
+59022,North Vancouver—Capilano,BC,CPC,16071
+59022,North Vancouver—Capilano,BC,NDP,10422
+59022,North Vancouver—Capilano,BC,BQ,0
+59022,North Vancouver—Capilano,BC,GPC,2335
+59022,North Vancouver—Capilano,BC,PPC,1408
+59022,North Vancouver—Capilano,BC,OTH,18
+59023,Okanagan Lake West—South Kelowna,BC,LPC,13028
+59023,Okanagan Lake West—South Kelowna,BC,CPC,27129
+59023,Okanagan Lake West—South Kelowna,BC,NDP,10598
+59023,Okanagan Lake West—South Kelowna,BC,BQ,0
+59023,Okanagan Lake West—South Kelowna,BC,GPC,1541
+59023,Okanagan Lake West—South Kelowna,BC,PPC,3812
+59023,Okanagan Lake West—South Kelowna,BC,OTH,0
+59024,Pitt Meadows—Maple Ridge,BC,LPC,13813
+59024,Pitt Meadows—Maple Ridge,BC,CPC,20811
+59024,Pitt Meadows—Maple Ridge,BC,NDP,17532
+59024,Pitt Meadows—Maple Ridge,BC,BQ,0
+59024,Pitt Meadows—Maple Ridge,BC,GPC,162
+59024,Pitt Meadows—Maple Ridge,BC,PPC,3096
+59024,Pitt Meadows—Maple Ridge,BC,OTH,614
+59025,Port Moody—Coquitlam,BC,LPC,15771
+59025,Port Moody—Coquitlam,BC,CPC,17093
+59025,Port Moody—Coquitlam,BC,NDP,18740
+59025,Port Moody—Coquitlam,BC,BQ,0
+59025,Port Moody—Coquitlam,BC,GPC,0
+59025,Port Moody—Coquitlam,BC,PPC,1776
+59025,Port Moody—Coquitlam,BC,OTH,109
+59026,Prince George—Peace River—Northern Rockies,BC,LPC,4815
+59026,Prince George—Peace River—Northern Rockies,BC,CPC,30874
+59026,Prince George—Peace River—Northern Rockies,BC,NDP,7479
+59026,Prince George—Peace River—Northern Rockies,BC,BQ,0
+59026,Prince George—Peace River—Northern Rockies,BC,GPC,1812
+59026,Prince George—Peace River—Northern Rockies,BC,PPC,5410
+59026,Prince George—Peace River—Northern Rockies,BC,OTH,1648
+59027,Richmond Centre—Marpole,BC,LPC,14375
+59027,Richmond Centre—Marpole,BC,CPC,13211
+59027,Richmond Centre—Marpole,BC,NDP,7593
+59027,Richmond Centre—Marpole,BC,BQ,0
+59027,Richmond Centre—Marpole,BC,GPC,1167
+59027,Richmond Centre—Marpole,BC,PPC,918
+59027,Richmond Centre—Marpole,BC,OTH,0
+59028,Richmond East—Steveston,BC,LPC,18640
+59028,Richmond East—Steveston,BC,CPC,15117
+59028,Richmond East—Steveston,BC,NDP,8622
+59028,Richmond East—Steveston,BC,BQ,0
+59028,Richmond East—Steveston,BC,GPC,1043
+59028,Richmond East—Steveston,BC,PPC,1057
+59028,Richmond East—Steveston,BC,OTH,0
+59029,Saanich—Gulf Islands,BC,LPC,13216
+59029,Saanich—Gulf Islands,BC,CPC,15915
+59029,Saanich—Gulf Islands,BC,NDP,13738
+59029,Saanich—Gulf Islands,BC,BQ,0
+59029,Saanich—Gulf Islands,BC,GPC,25136
+59029,Saanich—Gulf Islands,BC,PPC,2115
+59029,Saanich—Gulf Islands,BC,OTH,156
+59030,Similkameen—South Okanagan—West Kootenay,BC,LPC,7993
+59030,Similkameen—South Okanagan—West Kootenay,BC,CPC,22704
+59030,Similkameen—South Okanagan—West Kootenay,BC,NDP,23545
+59030,Similkameen—South Okanagan—West Kootenay,BC,BQ,0
+59030,Similkameen—South Okanagan—West Kootenay,BC,GPC,2024
+59030,Similkameen—South Okanagan—West Kootenay,BC,PPC,4151
+59030,Similkameen—South Okanagan—West Kootenay,BC,OTH,0
+59031,Skeena—Bulkley Valley,BC,LPC,2866
+59031,Skeena—Bulkley Valley,BC,CPC,13513
+59031,Skeena—Bulkley Valley,BC,NDP,15921
+59031,Skeena—Bulkley Valley,BC,BQ,0
+59031,Skeena—Bulkley Valley,BC,GPC,1406
+59031,Skeena—Bulkley Valley,BC,PPC,2888
+59031,Skeena—Bulkley Valley,BC,OTH,797
+59032,South Surrey—White Rock,BC,LPC,21816
+59032,South Surrey—White Rock,BC,CPC,23802
+59032,South Surrey—White Rock,BC,NDP,8302
+59032,South Surrey—White Rock,BC,BQ,0
+59032,South Surrey—White Rock,BC,GPC,0
+59032,South Surrey—White Rock,BC,PPC,2162
+59032,South Surrey—White Rock,BC,OTH,0
+59033,Surrey Centre,BC,LPC,15753
+59033,Surrey Centre,BC,CPC,7292
+59033,Surrey Centre,BC,NDP,9729
+59033,Surrey Centre,BC,BQ,0
+59033,Surrey Centre,BC,GPC,780
+59033,Surrey Centre,BC,PPC,1361
+59033,Surrey Centre,BC,OTH,379
+59034,Surrey Newton,BC,LPC,19071
+59034,Surrey Newton,BC,CPC,5334
+59034,Surrey Newton,BC,NDP,9137
+59034,Surrey Newton,BC,BQ,0
+59034,Surrey Newton,BC,GPC,0
+59034,Surrey Newton,BC,PPC,914
+59034,Surrey Newton,BC,OTH,583
+59035,Vancouver Centre,BC,LPC,18562
+59035,Vancouver Centre,BC,CPC,9994
+59035,Vancouver Centre,BC,NDP,13849
+59035,Vancouver Centre,BC,BQ,0
+59035,Vancouver Centre,BC,GPC,1737
+59035,Vancouver Centre,BC,PPC,1498
+59035,Vancouver Centre,BC,OTH,0
+59036,Vancouver East,BC,LPC,9797
+59036,Vancouver East,BC,CPC,5399
+59036,Vancouver East,BC,NDP,27969
+59036,Vancouver East,BC,BQ,0
+59036,Vancouver East,BC,GPC,3826
+59036,Vancouver East,BC,PPC,1382
+59036,Vancouver East,BC,OTH,1218
+59037,Vancouver Fraserview—South Burnaby,BC,LPC,18352
+59037,Vancouver Fraserview—South Burnaby,BC,CPC,9488
+59037,Vancouver Fraserview—South Burnaby,BC,NDP,13485
+59037,Vancouver Fraserview—South Burnaby,BC,BQ,0
+59037,Vancouver Fraserview—South Burnaby,BC,GPC,439
+59037,Vancouver Fraserview—South Burnaby,BC,PPC,1298
+59037,Vancouver Fraserview—South Burnaby,BC,OTH,305
+59038,Vancouver Granville,BC,LPC,19873
+59038,Vancouver Granville,BC,CPC,13163
+59038,Vancouver Granville,BC,NDP,17570
+59038,Vancouver Granville,BC,BQ,0
+59038,Vancouver Granville,BC,GPC,1457
+59038,Vancouver Granville,BC,PPC,1269
+59038,Vancouver Granville,BC,OTH,50
+59039,Vancouver Kingsway,BC,LPC,12591
+59039,Vancouver Kingsway,BC,CPC,6136
+59039,Vancouver Kingsway,BC,NDP,21868
+59039,Vancouver Kingsway,BC,BQ,0
+59039,Vancouver Kingsway,BC,GPC,1575
+59039,Vancouver Kingsway,BC,PPC,956
+59039,Vancouver Kingsway,BC,OTH,261
+59040,Vancouver Quadra,BC,LPC,21464
+59040,Vancouver Quadra,BC,CPC,14455
+59040,Vancouver Quadra,BC,NDP,9593
+59040,Vancouver Quadra,BC,BQ,0
+59040,Vancouver Quadra,BC,GPC,2950
+59040,Vancouver Quadra,BC,PPC,1004
+59040,Vancouver Quadra,BC,OTH,0
+59041,Vernon—Lake Country—Monashee,BC,LPC,11207
+59041,Vernon—Lake Country—Monashee,BC,CPC,24843
+59041,Vernon—Lake Country—Monashee,BC,NDP,12308
+59041,Vernon—Lake Country—Monashee,BC,BQ,0
+59041,Vernon—Lake Country—Monashee,BC,GPC,2937
+59041,Vernon—Lake Country—Monashee,BC,PPC,5391
+59041,Vernon—Lake Country—Monashee,BC,OTH,0
+59042,Victoria,BC,LPC,18194
+59042,Victoria,BC,CPC,9152
+59042,Victoria,BC,NDP,29301
+59042,Victoria,BC,BQ,0
+59042,Victoria,BC,GPC,7472
+59042,Victoria,BC,PPC,2065
+59042,Victoria,BC,OTH,564
+59043,West Vancouver—Sunshine Coast—Sea to Sky Country,BC,LPC,18509
+59043,West Vancouver—Sunshine Coast—Sea to Sky Country,BC,CPC,16319
+59043,West Vancouver—Sunshine Coast—Sea to Sky Country,BC,NDP,15058
+59043,West Vancouver—Sunshine Coast—Sea to Sky Country,BC,BQ,0
+59043,West Vancouver—Sunshine Coast—Sea to Sky Country,BC,GPC,3809
+59043,West Vancouver—Sunshine Coast—Sea to Sky Country,BC,PPC,2103
+59043,West Vancouver—Sunshine Coast—Sea to Sky Country,BC,OTH,207
+60001,Yukon,YT,LPC,6471
+60001,Yukon,YT,CPC,5096
+60001,Yukon,YT,NDP,4354
+60001,Yukon,YT,BQ,0
+60001,Yukon,YT,GPC,846
+60001,Yukon,YT,PPC,0
+60001,Yukon,YT,OTH,2639
+61001,Northwest Territories,NT,LPC,5387
+61001,Northwest Territories,NT,CPC,2031
+61001,Northwest Territories,NT,NDP,4558
+61001,Northwest Territories,NT,BQ,0
+61001,Northwest Territories,NT,GPC,328
+61001,Northwest Territories,NT,PPC,0
+61001,Northwest Territories,NT,OTH,1791
+62001,Nunavut,NU,LPC,2578
+62001,Nunavut,NU,CPC,1184
+62001,Nunavut,NU,NDP,3427
+62001,Nunavut,NU,BQ,0
+62001,Nunavut,NU,GPC,0
+62001,Nunavut,NU,PPC,0
+62001,Nunavut,NU,OTH,0

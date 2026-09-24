@@ -5,44 +5,28 @@ on:
   pull_request:
 
 jobs:
-  lint:
+  test:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.12"]
     steps:
       - uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
-
-      - name: Install ruff
-        run: pip install ruff
-
-      - name: Run ruff check
-        run: ruff check .
-
-  compile:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+          python-version: ${{ matrix.python-version }}
+          cache: pip
 
       - name: Install dependencies
-        run: |
-          pip install dash plotly pandas networkx numpy
+        run: pip install -r requirements-dev.txt
 
-      - name: Check syntax on all Python files
-        run: |
-          python -m py_compile config.py
-          python -m py_compile data_loader.py
-          python -m py_compile election_model.py
-          python -m py_compile graph.py
-          python -m py_compile visualization.py
-          python -m py_compile scraper.py
-          python -m py_compile dashboard.py
-          python -m py_compile main.py
-          echo "All files compiled successfully."
+      - name: Lint
+        run: ruff check .
+
+      - name: Test
+        run: pytest -q
+
+      - name: Backtest runs end to end
+        run: python -m election.backtest > /dev/null
