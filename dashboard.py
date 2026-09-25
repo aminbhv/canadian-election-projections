@@ -164,7 +164,7 @@ def create_app() -> Dash:
             ),
             html.P(
                 "Model: uniform national swing to regions, then the selected swing model to ridings, "
-                f"with correlated national, regional, and riding-level error ({N_TRIALS:,} simulations).",
+                f"with shared national and regional error plus independent riding-level error ({N_TRIALS:,} simulations).",
                 style={"color": "#777", "fontSize": "0.85rem", "marginTop": "24px"},
             ),
         ],

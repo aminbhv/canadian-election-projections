@@ -33,7 +33,7 @@ the actual 2025 results. Full report: [`reports/backtest_2025.md`](reports/backt
   GTA suburbs (Markham–Unionville, Vaughan–Woodbridge, Richmond Hill South, Newmarket–Aurora) and
   industrial or northern ridings where the NDP had been strong (both Windsor ridings, Hamilton
   East–Stoney Creek, Sudbury East). In the second group, the collapsing NDP vote appears to have
-  gone to the Conservatives rather than being shared out in proportion. Ridings within each group
+  gone to the Conservatives rather than being shared out in proportion. This suggests ridings within each group
   moved together, which a model with only regional and independent riding-level error cannot
   represent.
 - **Wider error bands would have been better calibrated.** Doubling the noise improves the Brier
